@@ -1,0 +1,57 @@
+# =========================
+# Unreal Engine
+# =========================
+
+# Build results
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# VS / Rider / IDE
+.vs/
+.vscode/
+.idea/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Mac / Linux
+.DS_Store
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Autosaves / backups
+Saved/Autosaves/
+Saved/Backup/
+
+# Crash reports
+Saved/Crashes/
+
+# Cooked data
+Saved/Cooked/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Shader cache
+DerivedDataCache/
+
+# =========================
+# Keep important folders
+# =========================
+
+!Content/
+!Config/
+!Source/
+!Plugins/
+Plugins/*/Binaries/
+Plugins/*/Intermediate/

@@ -1,0 +1,47 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/MAP/Labirint.umap",
+				"C:/Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/PLAYER/BP_Player.uasset",
+				"C:/Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/input/IA_Move.uasset",
+				"C:/Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/input/IMC_Labirint.uasset",
+				"C:/Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/Gamemode/BP_LabirintGM.uasset",
+				"C:/Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/input/IA_Jump.uasset",
+				"C:/Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/input/IA_Look.uasset",
+				"C:/Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/MazeMesh/arrow_mesh.uasset",
+				"C:/Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/MazeMesh/arrowshooter_mesh.uasset",
+				"C:/Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/MazeMesh/brick_mesh.uasset",
+				"C:/Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/MazeMesh/door_mesh.uasset",
+				"C:/Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/MazeMesh/keyplatform_mesh.uasset",
+				"C:/Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/MazeMesh/pillar_mesh.uasset",
+				"C:/Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/MazeMesh/platform_mesh.uasset",
+				"C:/Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/MazeMesh/rubble_mesh.uasset",
+				"C:/Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/MazeMesh/skull_mesh.uasset",
+				"C:/Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/MazeMesh/wall_mesh.uasset",
+				"C:/Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/MazeMesh/wallbroken_mesh.uasset",
+				"C:/Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/MazeMesh/wallcracked_mesh.uasset",
+				"C:/Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/MazeMesh/MazeMat/DefaultMaterial.uasset",
+				"C:/Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/MazeMesh/MazeMat/lambert1.uasset",
+				"C:/Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/MazeMesh/MazeMat/Gold_Mat.uasset",
+				"C:/Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/MazeMesh/MazeMat/M_Floor.uasset",
+				"C:/Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/MazeMesh/grass_mesh.uasset",
+				"C:/Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/MazeMesh/MazeMat/M_Grass.uasset",
+				"C:/Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/Blueprint/BP_Door.uasset",
+				"C:/Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/MazeMesh/MazeMat/M_Gold.uasset",
+				"C:/Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/Blueprint/BP_Key.uasset",
+				"C:/Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/MazeMesh/MazeMat/rubber_duck_texture_0_Mat.uasset",
+				"C:/Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/MazeMesh/Texture/rubber_duck_texture_0.uasset",
+				"C:/Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/MazeMesh/Duck.uasset",
+				"C:/Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/MazeMesh/rubber_duck.uasset",
+				"C:/Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/Blueprint/BPI/BPI_Interaction.uasset",
+				"C:/Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/MazeMesh/lambert1.uasset",
+				"C:/Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/MazeMesh/DefaultMaterial.uasset",
+				"C:/Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/MazeMesh/Gold_Mat.uasset"
+			]
+		}
+	]
+}
