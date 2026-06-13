@@ -1468,3 +1468,1766 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2026.06.13-14.29.13:630][262]LogPlayLevel: Display: Destroying online subsystem :Context_3
 [2026.06.13-14.29.15:600][444]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
 [2026.06.13-14.29.15:600][444]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2026.06.13-14.30.00:492][579]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2026.06.13-14.30.00:492][579]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2026.06.13-14.30.05:061][964]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.06.13-14.30.05:070][964]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.13-14.30.05:070][964]PIE: New page: PIE session: Labirint (13 Jun 2026, 8:30:05 pm)
+[2026.06.13-14.30.05:109][964]LogPlayLevel: Creating play world package: /Game/MAP/UEDPIE_0_Labirint
+[2026.06.13-14.30.05:120][964]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011565s)
+[2026.06.13-14.30.05:120][964]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MAP/Labirint.Labirint to /Game/MAP/UEDPIE_0_Labirint.Labirint (0.011613s)
+[2026.06.13-14.30.05:124][964]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2026.06.13-14.30.05:125][964]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.06.13-14.30.05:125][964]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.06.13-14.30.05:125][964]LogAIModule: Creating AISystem for world Labirint
+[2026.06.13-14.30.05:126][964]LogPlayLevel: PIE: World Init took: (0.001038s)
+[2026.06.13-14.30.05:126][964]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2026.06.13-14.30.05:126][964]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.13-14.30.05:126][964]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.13-14.30.05:126][964]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.13-14.30.05:126][964]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.13-14.30.05:126][964]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.13-14.30.05:126][964]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.13-14.30.05:126][964]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.13-14.30.05:126][964]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.13-14.30.05:127][964]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.13-14.30.05:127][964]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.13-14.30.05:127][964]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.13-14.30.05:129][964]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.13-14.30.05:161][964]LogAudioMixer: Display: Using Audio Hardware Device Динамики (3- USB Audio Device)
+[2026.06.13-14.30.05:161][964]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.13-14.30.05:161][964]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.13-14.30.05:161][964]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.13-14.30.05:162][964]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2026.06.13-14.30.05:162][964]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2026.06.13-14.30.05:164][964]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2026.06.13-14.30.05:164][964]LogInit: FAudioDevice initialized with ID 5.
+[2026.06.13-14.30.05:164][964]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2026.06.13-14.30.05:164][964]LogAudio: Display: Audio Device (ID: 5) registered with world 'Labirint'.
+[2026.06.13-14.30.05:164][964]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2026.06.13-14.30.05:166][964]LogLoad: Game class is 'BP_LabirintGM_C'
+[2026.06.13-14.30.05:174][964]LogWorld: Bringing World /Game/MAP/UEDPIE_0_Labirint.Labirint up for play (max tick rate 2000) at 2026.06.13-17.30.05
+[2026.06.13-14.30.05:175][964]LogWorld: Bringing up level for play took: 0.008525
+[2026.06.13-14.30.05:177][964]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2026.06.13-14.30.05:178][964]PIE: Server logged in
+[2026.06.13-14.30.05:179][964]PIE: Play in editor total start time 0.109 seconds.
+[2026.06.13-14.30.12:010][490]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.13-14.30.12:010][490]LogWorld: BeginTearingDown for /Game/MAP/UEDPIE_0_Labirint
+[2026.06.13-14.30.12:010][490]LogWorld: UWorld::CleanupWorld for Labirint, bSessionEnded=true, bCleanupResources=true
+[2026.06.13-14.30.12:011][490]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.13-14.30.12:015][490]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.13-14.30.12:019][490]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.13-14.30.12:023][490]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.13-14.30.12:024][490]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2026.06.13-14.30.12:024][490]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2026.06.13-14.30.12:026][490]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2026.06.13-14.30.12:035][490]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.06.13-14.30.12:087][494]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2026.06.13-14.30.33:037][312]Cmd: SELECT NONE
+[2026.06.13-14.31.29:676][927]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.06.13-14.31.29:683][927]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.13-14.31.29:684][927]PIE: New page: PIE session: Labirint (13 Jun 2026, 8:31:29 pm)
+[2026.06.13-14.31.29:684][927]LogPlayLevel: Creating play world package: /Game/MAP/UEDPIE_0_Labirint
+[2026.06.13-14.31.29:696][927]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011775s)
+[2026.06.13-14.31.29:696][927]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MAP/Labirint.Labirint to /Game/MAP/UEDPIE_0_Labirint.Labirint (0.011816s)
+[2026.06.13-14.31.29:700][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.06.13-14.31.29:701][927]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.06.13-14.31.29:701][927]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.06.13-14.31.29:702][927]LogAIModule: Creating AISystem for world Labirint
+[2026.06.13-14.31.29:702][927]LogPlayLevel: PIE: World Init took: (0.001189s)
+[2026.06.13-14.31.29:702][927]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2026.06.13-14.31.29:702][927]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.13-14.31.29:702][927]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.13-14.31.29:702][927]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.13-14.31.29:702][927]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.13-14.31.29:702][927]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.13-14.31.29:702][927]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.13-14.31.29:702][927]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.13-14.31.29:702][927]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.13-14.31.29:703][927]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.13-14.31.29:703][927]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.13-14.31.29:703][927]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.13-14.31.29:705][927]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.13-14.31.29:733][927]LogAudioMixer: Display: Using Audio Hardware Device Динамики (3- USB Audio Device)
+[2026.06.13-14.31.29:733][927]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.13-14.31.29:733][927]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.13-14.31.29:733][927]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.13-14.31.29:734][927]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2026.06.13-14.31.29:734][927]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2026.06.13-14.31.29:736][927]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2026.06.13-14.31.29:736][927]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2026.06.13-14.31.29:736][927]LogInit: FAudioDevice initialized with ID 6.
+[2026.06.13-14.31.29:736][927]LogAudio: Display: Audio Device (ID: 6) registered with world 'Labirint'.
+[2026.06.13-14.31.29:736][927]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2026.06.13-14.31.29:740][927]LogLoad: Game class is 'BP_LabirintGM_C'
+[2026.06.13-14.31.29:747][927]LogWorld: Bringing World /Game/MAP/UEDPIE_0_Labirint.Labirint up for play (max tick rate 2000) at 2026.06.13-17.31.29
+[2026.06.13-14.31.29:747][927]LogWorld: Bringing up level for play took: 0.006676
+[2026.06.13-14.31.29:748][927]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2026.06.13-14.31.29:750][927]PIE: Server logged in
+[2026.06.13-14.31.29:751][927]PIE: Play in editor total start time 0.067 seconds.
+[2026.06.13-14.31.39:010][516]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.13-14.31.39:010][516]LogWorld: BeginTearingDown for /Game/MAP/UEDPIE_0_Labirint
+[2026.06.13-14.31.39:010][516]LogWorld: UWorld::CleanupWorld for Labirint, bSessionEnded=true, bCleanupResources=true
+[2026.06.13-14.31.39:011][516]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.13-14.31.39:015][516]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.13-14.31.39:020][516]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.13-14.31.39:025][516]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.13-14.31.39:026][516]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2026.06.13-14.31.39:026][516]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2026.06.13-14.31.39:029][516]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2026.06.13-14.31.39:037][516]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2026.06.13-14.31.39:093][518]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2026.06.13-14.32.01:498][588]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/BP_Shoot.BP_Shoot
+[2026.06.13-14.32.01:499][588]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.06.13-14.32.01:499][588]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.06.13-14.32.01:516][588]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2026.06.13-14.32.02:286][588]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/BP_Key.BP_Key
+[2026.06.13-14.32.02:286][588]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.06.13-14.32.02:286][588]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.06.13-14.32.02:377][588]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/BP_Arrow.BP_Arrow
+[2026.06.13-14.32.02:378][588]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.06.13-14.32.02:378][588]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.06.13-14.32.02:475][588]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PLAYER/BP_Player.BP_Player
+[2026.06.13-14.32.02:476][588]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.06.13-14.32.02:476][588]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.06.13-14.32.02:598][588]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/CameraShake/E_HeadBOB.E_HeadBOB
+[2026.06.13-14.32.02:646][588]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CameraShake/CameraShakeRUN.CameraShakeRUN
+[2026.06.13-14.32.02:646][588]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.06.13-14.32.02:646][588]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.06.13-14.32.02:714][588]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/CameraShake/CameraShakeWalk.CameraShakeWalk
+[2026.06.13-14.32.02:714][588]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.06.13-14.32.02:714][588]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.06.13-14.32.24:332][372]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2026.06.13-14.32.53:235][242]Cmd: DELETE
+[2026.06.13-14.32.53:248][242]Cmd: ACTOR DELETE
+[2026.06.13-14.32.53:296][242]LogEditorActor: Deleted Actor: BP_Shoot_C
+[2026.06.13-14.32.53:331][242]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2026.06.13-14.32.53:332][242]LogEditorActor: Deleted 1 Actors (0.084 secs)
+[2026.06.13-14.32.54:661][365]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.06.13-14.32.54:671][365]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.13-14.32.54:671][365]PIE: New page: PIE session: Labirint (13 Jun 2026, 8:32:54 pm)
+[2026.06.13-14.32.54:709][365]LogPlayLevel: Creating play world package: /Game/MAP/UEDPIE_0_Labirint
+[2026.06.13-14.32.54:724][365]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014766s)
+[2026.06.13-14.32.54:724][365]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MAP/Labirint.Labirint to /Game/MAP/UEDPIE_0_Labirint.Labirint (0.014838s)
+[2026.06.13-14.32.54:739][365]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2026.06.13-14.32.54:740][365]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.06.13-14.32.54:740][365]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.06.13-14.32.54:740][365]LogAIModule: Creating AISystem for world Labirint
+[2026.06.13-14.32.54:741][365]LogPlayLevel: PIE: World Init took: (0.001061s)
+[2026.06.13-14.32.54:741][365]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2026.06.13-14.32.54:741][365]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.13-14.32.54:741][365]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.13-14.32.54:741][365]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.13-14.32.54:741][365]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.13-14.32.54:741][365]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.13-14.32.54:741][365]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.13-14.32.54:741][365]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.13-14.32.54:741][365]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.13-14.32.54:741][365]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.13-14.32.54:742][365]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.13-14.32.54:742][365]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.13-14.32.54:743][365]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.13-14.32.54:773][365]LogAudioMixer: Display: Using Audio Hardware Device Динамики (3- USB Audio Device)
+[2026.06.13-14.32.54:774][365]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.13-14.32.54:774][365]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.13-14.32.54:774][365]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.13-14.32.54:775][365]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2026.06.13-14.32.54:775][365]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2026.06.13-14.32.54:776][365]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2026.06.13-14.32.54:776][365]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2026.06.13-14.32.54:776][365]LogInit: FAudioDevice initialized with ID 7.
+[2026.06.13-14.32.54:776][365]LogAudio: Display: Audio Device (ID: 7) registered with world 'Labirint'.
+[2026.06.13-14.32.54:777][365]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2026.06.13-14.32.54:779][365]LogLoad: Game class is 'BP_LabirintGM_C'
+[2026.06.13-14.32.54:786][365]LogWorld: Bringing World /Game/MAP/UEDPIE_0_Labirint.Labirint up for play (max tick rate 2000) at 2026.06.13-17.32.54
+[2026.06.13-14.32.54:786][365]LogWorld: Bringing up level for play took: 0.006907
+[2026.06.13-14.32.54:790][365]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2026.06.13-14.32.54:792][365]PIE: Server logged in
+[2026.06.13-14.32.54:792][365]PIE: Play in editor total start time 0.121 seconds.
+[2026.06.13-14.33.55:549][703]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.13-14.33.55:549][703]LogWorld: BeginTearingDown for /Game/MAP/UEDPIE_0_Labirint
+[2026.06.13-14.33.55:549][703]LogWorld: UWorld::CleanupWorld for Labirint, bSessionEnded=true, bCleanupResources=true
+[2026.06.13-14.33.55:550][703]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.13-14.33.55:555][703]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.13-14.33.55:561][703]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.13-14.33.55:576][703]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.13-14.33.55:577][703]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2026.06.13-14.33.55:577][703]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2026.06.13-14.33.55:578][703]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2026.06.13-14.33.55:589][703]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2026.06.13-14.33.55:611][705]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2026.06.13-14.36.57:341][164]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.06.13-14.36.57:352][164]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.13-14.36.57:352][164]PIE: New page: PIE session: Labirint (13 Jun 2026, 8:36:57 pm)
+[2026.06.13-14.36.57:352][164]LogPlayLevel: Creating play world package: /Game/MAP/UEDPIE_0_Labirint
+[2026.06.13-14.36.57:368][164]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015580s)
+[2026.06.13-14.36.57:368][164]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MAP/Labirint.Labirint to /Game/MAP/UEDPIE_0_Labirint.Labirint (0.015635s)
+[2026.06.13-14.36.57:387][164]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2026.06.13-14.36.57:387][164]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.06.13-14.36.57:388][164]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.06.13-14.36.57:388][164]LogAIModule: Creating AISystem for world Labirint
+[2026.06.13-14.36.57:389][164]LogPlayLevel: PIE: World Init took: (0.001257s)
+[2026.06.13-14.36.57:389][164]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2026.06.13-14.36.57:389][164]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.13-14.36.57:389][164]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.13-14.36.57:389][164]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.13-14.36.57:389][164]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.13-14.36.57:389][164]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.13-14.36.57:389][164]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.13-14.36.57:389][164]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.13-14.36.57:389][164]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.13-14.36.57:390][164]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.13-14.36.57:390][164]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.13-14.36.57:390][164]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.13-14.36.57:392][164]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.13-14.36.57:422][164]LogAudioMixer: Display: Using Audio Hardware Device Динамики (3- USB Audio Device)
+[2026.06.13-14.36.57:422][164]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.13-14.36.57:422][164]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.13-14.36.57:422][164]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.13-14.36.57:423][164]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2026.06.13-14.36.57:423][164]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2026.06.13-14.36.57:425][164]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2026.06.13-14.36.57:425][164]LogInit: FAudioDevice initialized with ID 8.
+[2026.06.13-14.36.57:425][164]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2026.06.13-14.36.57:425][164]LogAudio: Display: Audio Device (ID: 8) registered with world 'Labirint'.
+[2026.06.13-14.36.57:425][164]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2026.06.13-14.36.57:427][164]LogLoad: Game class is 'BP_LabirintGM_C'
+[2026.06.13-14.36.57:436][164]LogWorld: Bringing World /Game/MAP/UEDPIE_0_Labirint.Labirint up for play (max tick rate 2000) at 2026.06.13-17.36.57
+[2026.06.13-14.36.57:436][164]LogWorld: Bringing up level for play took: 0.008353
+[2026.06.13-14.36.57:438][164]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2026.06.13-14.36.57:441][164]PIE: Server logged in
+[2026.06.13-14.36.57:442][164]PIE: Play in editor total start time 0.09 seconds.
+[2026.06.13-14.37.21:850][402]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.13-14.37.21:850][402]LogWorld: BeginTearingDown for /Game/MAP/UEDPIE_0_Labirint
+[2026.06.13-14.37.21:850][402]LogWorld: UWorld::CleanupWorld for Labirint, bSessionEnded=true, bCleanupResources=true
+[2026.06.13-14.37.21:851][402]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.13-14.37.21:855][402]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.13-14.37.21:861][402]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.13-14.37.21:875][402]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.06.13-14.37.21:875][402]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2026.06.13-14.37.21:876][402]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2026.06.13-14.37.21:878][402]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2026.06.13-14.37.21:883][402]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.13-14.37.21:888][402]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2026.06.13-14.37.21:951][404]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2026.06.13-14.38.50:867][ 98]Cmd: TRANSACTION UNDO
+[2026.06.13-14.38.50:867][ 98]LogEditorTransaction: Undo Delete Elements
+[2026.06.13-14.39.09:430][ 60]BlueprintLog: New page: Compile BP_Shoot
+[2026.06.13-14.39.09:490][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2026.06.13-14.39.09:505][ 60]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.13-14.39.09:572][ 60]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.06.13-14.39.09:640][ 60]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_Shoot" FILE="../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/Blueprint/BP_Shoot.uasset" SILENT=true
+[2026.06.13-14.39.09:652][ 60]LogPackageLocalizationCache: Processed 45 localized package path(s) for 1 prioritized culture(s) in 0.012335 seconds
+[2026.06.13-14.39.09:675][ 60]LogSavePackage: Moving output files for package: /Game/Blueprint/BP_Shoot
+[2026.06.13-14.39.09:676][ 60]LogSavePackage: Moving '../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Saved/BP_Shoot962BA57D4748A6ED32EB49A0794ACFC8.tmp' to '../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/Blueprint/BP_Shoot.uasset'
+[2026.06.13-14.39.09:687][ 60]LogFileHelpers: InternalPromptForCheckoutAndSave took 182 ms
+[2026.06.13-14.39.09:694][ 60]AssetCheck: New page: Asset Save: BP_Shoot
+[2026.06.13-14.39.09:694][ 60]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprint/BP_Shoot.BP_Shoot
+[2026.06.13-14.39.10:023][ 83]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.13-14.39.10:082][ 83]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_Shoot" FILE="../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/Blueprint/BP_Shoot.uasset" SILENT=true
+[2026.06.13-14.39.10:088][ 83]LogSavePackage: Moving output files for package: /Game/Blueprint/BP_Shoot
+[2026.06.13-14.39.10:088][ 83]LogSavePackage: Moving '../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Saved/BP_ShootA98985F146F893B3653A9C87DCD3DBC0.tmp' to '../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/Blueprint/BP_Shoot.uasset'
+[2026.06.13-14.39.10:097][ 83]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 256 ms)
+[2026.06.13-14.39.10:101][ 83]AssetCheck: New page: Asset Save: BP_Shoot
+[2026.06.13-14.39.10:101][ 83]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprint/BP_Shoot.BP_Shoot
+[2026.06.13-14.39.11:300][184]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.06.13-14.39.11:317][184]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.13-14.39.11:317][184]PIE: New page: PIE session: Labirint (13 Jun 2026, 8:39:11 pm)
+[2026.06.13-14.39.11:317][184]LogPlayLevel: Creating play world package: /Game/MAP/UEDPIE_0_Labirint
+[2026.06.13-14.39.11:336][184]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019296s)
+[2026.06.13-14.39.11:336][184]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MAP/Labirint.Labirint to /Game/MAP/UEDPIE_0_Labirint.Labirint (0.019349s)
+[2026.06.13-14.39.11:352][184]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2026.06.13-14.39.11:352][184]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.06.13-14.39.11:353][184]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.06.13-14.39.11:353][184]LogAIModule: Creating AISystem for world Labirint
+[2026.06.13-14.39.11:353][184]LogPlayLevel: PIE: World Init took: (0.001016s)
+[2026.06.13-14.39.11:353][184]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2026.06.13-14.39.11:353][184]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.13-14.39.11:354][184]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.13-14.39.11:354][184]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.13-14.39.11:354][184]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.13-14.39.11:354][184]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.13-14.39.11:354][184]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.13-14.39.11:354][184]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.13-14.39.11:354][184]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.13-14.39.11:355][184]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.13-14.39.11:355][184]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.13-14.39.11:355][184]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.13-14.39.11:357][184]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.13-14.39.11:385][184]LogAudioMixer: Display: Using Audio Hardware Device Динамики (3- USB Audio Device)
+[2026.06.13-14.39.11:386][184]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.13-14.39.11:386][184]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.13-14.39.11:386][184]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.13-14.39.11:386][184]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2026.06.13-14.39.11:386][184]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2026.06.13-14.39.11:388][184]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2026.06.13-14.39.11:388][184]LogInit: FAudioDevice initialized with ID 9.
+[2026.06.13-14.39.11:388][184]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2026.06.13-14.39.11:388][184]LogAudio: Display: Audio Device (ID: 9) registered with world 'Labirint'.
+[2026.06.13-14.39.11:388][184]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2026.06.13-14.39.11:390][184]LogLoad: Game class is 'BP_LabirintGM_C'
+[2026.06.13-14.39.11:397][184]LogWorld: Bringing World /Game/MAP/UEDPIE_0_Labirint.Labirint up for play (max tick rate 2000) at 2026.06.13-17.39.11
+[2026.06.13-14.39.11:398][184]LogWorld: Bringing up level for play took: 0.006988
+[2026.06.13-14.39.11:400][184]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2026.06.13-14.39.11:403][184]PIE: Server logged in
+[2026.06.13-14.39.11:404][184]PIE: Play in editor total start time 0.093 seconds.
+[2026.06.13-14.39.45:690][661]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.13-14.39.45:690][661]LogWorld: BeginTearingDown for /Game/MAP/UEDPIE_0_Labirint
+[2026.06.13-14.39.45:691][661]LogWorld: UWorld::CleanupWorld for Labirint, bSessionEnded=true, bCleanupResources=true
+[2026.06.13-14.39.45:692][661]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.13-14.39.45:697][661]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.13-14.39.45:704][661]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.13-14.39.45:720][661]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.06.13-14.39.45:720][661]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2026.06.13-14.39.45:720][661]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2026.06.13-14.39.45:722][661]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2026.06.13-14.39.45:727][661]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.13-14.39.45:732][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2026.06.13-14.39.45:790][662]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2026.06.13-14.41.13:113][768]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2026.06.13-14.41.13:113][768]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2026.06.13-14.41.35:582][321]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2026.06.13-14.41.39:915][143]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2026.06.13-14.41.39:954][143]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MAP/Labirint_Auto1
+[2026.06.13-14.41.39:955][143]LogSavePackage: Moving '../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Saved/Labirint_Auto17683AA4F41394AE01922FB9E475DECD2.tmp' to '../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Saved/Autosaves/Game/MAP/Labirint_Auto1.umap'
+[2026.06.13-14.41.39:956][143]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Saved/Autosaves/Game/MAP/Labirint_Auto1.umap is in the /Temp path, will not scan.
+[2026.06.13-14.41.39:956][143]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MAP/Labirint' took 0.059
+[2026.06.13-14.41.39:956][143]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.059
+[2026.06.13-14.41.39:957][143]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprint/BP_Shoot] ([2] browsable assets)...
+[2026.06.13-14.41.39:985][143]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/BP_Shoot.BP_Shoot]
+[2026.06.13-14.41.39:985][143]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/BP_Shoot]
+[2026.06.13-14.41.39:992][143]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprint/BP_Shoot_Auto1
+[2026.06.13-14.41.39:992][143]LogSavePackage: Moving '../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Saved/BP_Shoot_Auto1FEE23B2444CD4B1E0460A4BCBBC5F5D3.tmp' to '../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Saved/Autosaves/Game/Blueprint/BP_Shoot_Auto1.uasset'
+[2026.06.13-14.41.39:993][143]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MazeMesh/MazeMat/lambert1] ([1] browsable assets)...
+[2026.06.13-14.41.39:994][143]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.06.13-14.41.40:007][143]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MazeMesh/MazeMat/lambert1.lambert1]
+[2026.06.13-14.41.40:007][143]OBJ SavePackage: Finished generating thumbnails for package [/Game/MazeMesh/MazeMat/lambert1]
+[2026.06.13-14.41.40:009][143]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MazeMesh/MazeMat/lambert1_Auto1
+[2026.06.13-14.41.40:009][143]LogSavePackage: Moving '../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Saved/lambert1_Auto1BDD5B39F4CFC76D60F66679CE0E8D849.tmp' to '../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Saved/Autosaves/Game/MazeMesh/MazeMat/lambert1_Auto1.uasset'
+[2026.06.13-14.41.40:009][143]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MazeMesh/MazeMat/M_Floor] ([1] browsable assets)...
+[2026.06.13-14.41.40:016][143]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MazeMesh/MazeMat/M_Floor.M_Floor]
+[2026.06.13-14.41.40:016][143]OBJ SavePackage: Finished generating thumbnails for package [/Game/MazeMesh/MazeMat/M_Floor]
+[2026.06.13-14.41.40:018][143]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MazeMesh/MazeMat/M_Floor_Auto1
+[2026.06.13-14.41.40:018][143]LogSavePackage: Moving '../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Saved/M_Floor_Auto1E3FD009540908A0E4FBF6F8C7368DF76.tmp' to '../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Saved/Autosaves/Game/MazeMesh/MazeMat/M_Floor_Auto1.uasset'
+[2026.06.13-14.41.40:019][143]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MazeMesh/MazeMat/rubber_duck_texture_0_Mat] ([1] browsable assets)...
+[2026.06.13-14.41.40:043][143]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MazeMesh/MazeMat/rubber_duck_texture_0_Mat.rubber_duck_texture_0_Mat]
+[2026.06.13-14.41.40:043][143]OBJ SavePackage: Finished generating thumbnails for package [/Game/MazeMesh/MazeMat/rubber_duck_texture_0_Mat]
+[2026.06.13-14.41.40:045][143]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MazeMesh/MazeMat/rubber_duck_texture_0_Mat_Auto1
+[2026.06.13-14.41.40:045][143]LogSavePackage: Moving '../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Saved/rubber_duck_texture_0_Mat_Auto1B1BF0B4D49F65E3A834B7FB992BBF749.tmp' to '../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Saved/Autosaves/Game/MazeMesh/MazeMat/rubber_duck_texture_0_Mat_Auto1.uasset'
+[2026.06.13-14.41.40:046][143]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MazeMesh/MazeMat/M_Grass] ([1] browsable assets)...
+[2026.06.13-14.41.40:148][143]LogD3D12RHI: Warning: Waited for PSO creation for 100.000000ms
+[2026.06.13-14.41.40:195][143]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MazeMesh/MazeMat/M_Grass.M_Grass]
+[2026.06.13-14.41.40:195][143]OBJ SavePackage: Finished generating thumbnails for package [/Game/MazeMesh/MazeMat/M_Grass]
+[2026.06.13-14.41.40:200][143]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MazeMesh/MazeMat/M_Grass_Auto1
+[2026.06.13-14.41.40:200][143]LogSavePackage: Moving '../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Saved/M_Grass_Auto10574384E40BFE7BBBEED20BA0A4B4830.tmp' to '../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Saved/Autosaves/Game/MazeMesh/MazeMat/M_Grass_Auto1.uasset'
+[2026.06.13-14.41.40:201][143]LogFileHelpers: Auto-saving content packages took 0.245
+[2026.06.13-14.44.07:264][869]BlueprintLog: New page: Compile BP_Shoot
+[2026.06.13-14.44.07:301][869]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2026.06.13-14.44.07:324][869]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.13-14.44.07:406][869]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_Shoot" FILE="../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/Blueprint/BP_Shoot.uasset" SILENT=true
+[2026.06.13-14.44.07:416][869]LogSavePackage: Moving output files for package: /Game/Blueprint/BP_Shoot
+[2026.06.13-14.44.07:416][869]LogSavePackage: Moving '../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Saved/BP_ShootAF773AD446D77D8CD34F248E0D3AA1EE.tmp' to '../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/Blueprint/BP_Shoot.uasset'
+[2026.06.13-14.44.07:427][869]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 359 ms)
+[2026.06.13-14.44.07:429][869]AssetCheck: New page: Asset Save: BP_Shoot
+[2026.06.13-14.44.07:429][869]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprint/BP_Shoot.BP_Shoot
+[2026.06.13-14.46.55:385][998]BlueprintLog: New page: Compile BP_Shoot
+[2026.06.13-14.46.55:425][998]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2026.06.13-14.46.55:444][998]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.13-14.46.55:519][998]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_Shoot" FILE="../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/Blueprint/BP_Shoot.uasset" SILENT=true
+[2026.06.13-14.46.55:534][998]LogSavePackage: Moving output files for package: /Game/Blueprint/BP_Shoot
+[2026.06.13-14.46.55:534][998]LogSavePackage: Moving '../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Saved/BP_ShootD84478804F9DE02439F98E8056C3C40D.tmp' to '../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/Blueprint/BP_Shoot.uasset'
+[2026.06.13-14.46.55:547][998]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 462 ms)
+[2026.06.13-14.46.55:554][998]AssetCheck: New page: Asset Save: BP_Shoot
+[2026.06.13-14.46.55:554][998]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprint/BP_Shoot.BP_Shoot
+[2026.06.13-14.46.56:253][108]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.13-14.46.56:305][108]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_Shoot" FILE="../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/Blueprint/BP_Shoot.uasset" SILENT=true
+[2026.06.13-14.46.56:313][108]LogSavePackage: Moving output files for package: /Game/Blueprint/BP_Shoot
+[2026.06.13-14.46.56:313][108]LogSavePackage: Moving '../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Saved/BP_ShootB6CF323A498AEE417A45FF966FB1F32F.tmp' to '../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/Blueprint/BP_Shoot.uasset'
+[2026.06.13-14.46.56:323][108]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 531 ms)
+[2026.06.13-14.46.56:325][108]AssetCheck: New page: Asset Save: BP_Shoot
+[2026.06.13-14.46.56:325][108]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprint/BP_Shoot.BP_Shoot
+[2026.06.13-14.48.01:656][690]BlueprintLog: New page: Compile BP_Shoot
+[2026.06.13-14.48.01:694][690]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2026.06.13-14.48.01:719][690]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.13-14.48.01:795][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_Shoot" FILE="../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/Blueprint/BP_Shoot.uasset" SILENT=true
+[2026.06.13-14.48.01:806][690]LogSavePackage: Moving output files for package: /Game/Blueprint/BP_Shoot
+[2026.06.13-14.48.01:807][690]LogSavePackage: Moving '../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Saved/BP_Shoot3F0C1AAB4CBE394BBFAF9E80A1955704.tmp' to '../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/Blueprint/BP_Shoot.uasset'
+[2026.06.13-14.48.01:815][690]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 628 ms)
+[2026.06.13-14.48.01:823][690]AssetCheck: New page: Asset Save: BP_Shoot
+[2026.06.13-14.48.01:823][690]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprint/BP_Shoot.BP_Shoot
+[2026.06.13-14.48.02:251][747]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.13-14.48.02:300][747]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_Shoot" FILE="../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/Blueprint/BP_Shoot.uasset" SILENT=true
+[2026.06.13-14.48.02:310][747]LogSavePackage: Moving output files for package: /Game/Blueprint/BP_Shoot
+[2026.06.13-14.48.02:311][747]LogSavePackage: Moving '../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Saved/BP_Shoot74A5F62A4773D57CDCE8F09CA8183DDA.tmp' to '../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/Blueprint/BP_Shoot.uasset'
+[2026.06.13-14.48.02:324][747]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 701 ms)
+[2026.06.13-14.48.02:326][747]AssetCheck: New page: Asset Save: BP_Shoot
+[2026.06.13-14.48.02:326][747]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprint/BP_Shoot.BP_Shoot
+[2026.06.13-14.48.02:594][785]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.13-14.48.02:646][785]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_Shoot" FILE="../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/Blueprint/BP_Shoot.uasset" SILENT=true
+[2026.06.13-14.48.02:658][785]LogSavePackage: Moving output files for package: /Game/Blueprint/BP_Shoot
+[2026.06.13-14.48.02:658][785]LogSavePackage: Moving '../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Saved/BP_ShootA2F59F2D4931C061B217A7AB36FD15BC.tmp' to '../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/Blueprint/BP_Shoot.uasset'
+[2026.06.13-14.48.02:667][785]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 774 ms)
+[2026.06.13-14.48.02:670][785]AssetCheck: New page: Asset Save: BP_Shoot
+[2026.06.13-14.48.02:671][785]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprint/BP_Shoot.BP_Shoot
+[2026.06.13-14.48.04:280][953]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.06.13-14.48.04:290][953]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.13-14.48.04:290][953]PIE: New page: PIE session: Labirint (13 Jun 2026, 8:48:04 pm)
+[2026.06.13-14.48.04:319][953]LogPlayLevel: Creating play world package: /Game/MAP/UEDPIE_0_Labirint
+[2026.06.13-14.48.04:332][953]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012593s)
+[2026.06.13-14.48.04:332][953]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MAP/Labirint.Labirint to /Game/MAP/UEDPIE_0_Labirint.Labirint (0.012649s)
+[2026.06.13-14.48.04:348][953]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2026.06.13-14.48.04:350][953]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.06.13-14.48.04:350][953]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.06.13-14.48.04:351][953]LogAIModule: Creating AISystem for world Labirint
+[2026.06.13-14.48.04:351][953]LogPlayLevel: PIE: World Init took: (0.001050s)
+[2026.06.13-14.48.04:351][953]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2026.06.13-14.48.04:351][953]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.13-14.48.04:351][953]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.13-14.48.04:351][953]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.13-14.48.04:351][953]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.13-14.48.04:351][953]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.13-14.48.04:351][953]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.13-14.48.04:351][953]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.13-14.48.04:351][953]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.13-14.48.04:352][953]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.13-14.48.04:352][953]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.13-14.48.04:352][953]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.13-14.48.04:354][953]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.13-14.48.04:381][953]LogAudioMixer: Display: Using Audio Hardware Device Динамики (3- USB Audio Device)
+[2026.06.13-14.48.04:382][953]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.13-14.48.04:382][953]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.13-14.48.04:382][953]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.13-14.48.04:382][953]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2026.06.13-14.48.04:382][953]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2026.06.13-14.48.04:384][953]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2026.06.13-14.48.04:384][953]LogInit: FAudioDevice initialized with ID 10.
+[2026.06.13-14.48.04:384][953]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2026.06.13-14.48.04:385][953]LogAudio: Display: Audio Device (ID: 10) registered with world 'Labirint'.
+[2026.06.13-14.48.04:385][953]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2026.06.13-14.48.04:387][953]LogLoad: Game class is 'BP_LabirintGM_C'
+[2026.06.13-14.48.04:395][953]LogWorld: Bringing World /Game/MAP/UEDPIE_0_Labirint.Labirint up for play (max tick rate 2000) at 2026.06.13-17.48.04
+[2026.06.13-14.48.04:396][953]LogWorld: Bringing up level for play took: 0.007526
+[2026.06.13-14.48.04:398][953]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2026.06.13-14.48.04:399][953]LogBlueprintUserMessages: Warning: SetTimer passed a bad function (None) or object (None)
+[2026.06.13-14.48.04:400][953]PIE: Server logged in
+[2026.06.13-14.48.04:401][953]PIE: Play in editor total start time 0.111 seconds.
+[2026.06.13-14.48.09:870][639]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.13-14.48.09:870][639]LogWorld: BeginTearingDown for /Game/MAP/UEDPIE_0_Labirint
+[2026.06.13-14.48.09:870][639]LogWorld: UWorld::CleanupWorld for Labirint, bSessionEnded=true, bCleanupResources=true
+[2026.06.13-14.48.09:872][639]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.13-14.48.09:888][639]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.13-14.48.09:894][639]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.13-14.48.09:909][639]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.13-14.48.09:909][639]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2026.06.13-14.48.09:909][639]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2026.06.13-14.48.09:911][639]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2026.06.13-14.48.09:920][639]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2026.06.13-14.48.09:983][640]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2026.06.13-14.48.56:693][628]BlueprintLog: New page: Compile BP_Shoot
+[2026.06.13-14.48.56:748][628]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2026.06.13-14.48.56:772][628]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.13-14.48.56:853][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_Shoot" FILE="../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/Blueprint/BP_Shoot.uasset" SILENT=true
+[2026.06.13-14.48.56:866][628]LogSavePackage: Moving output files for package: /Game/Blueprint/BP_Shoot
+[2026.06.13-14.48.56:866][628]LogSavePackage: Moving '../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Saved/BP_ShootDC229E2F43AB388140ED4DA4A8AD1982.tmp' to '../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/Blueprint/BP_Shoot.uasset'
+[2026.06.13-14.48.56:877][628]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 880 ms)
+[2026.06.13-14.48.56:880][628]AssetCheck: New page: Asset Save: BP_Shoot
+[2026.06.13-14.48.56:881][628]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprint/BP_Shoot.BP_Shoot
+[2026.06.13-14.48.57:753][723]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.13-14.48.57:791][723]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_Shoot" FILE="../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/Blueprint/BP_Shoot.uasset" SILENT=true
+[2026.06.13-14.48.57:803][723]LogSavePackage: Moving output files for package: /Game/Blueprint/BP_Shoot
+[2026.06.13-14.48.57:803][723]LogSavePackage: Moving '../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Saved/BP_ShootED6AFF034CD4E40D34230291911C0737.tmp' to '../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/Blueprint/BP_Shoot.uasset'
+[2026.06.13-14.48.57:812][723]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 938 ms)
+[2026.06.13-14.48.57:815][723]AssetCheck: New page: Asset Save: BP_Shoot
+[2026.06.13-14.48.57:815][723]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprint/BP_Shoot.BP_Shoot
+[2026.06.13-14.50.43:954][989]BlueprintLog: New page: Compile BP_Shoot
+[2026.06.13-14.50.43:997][989]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2026.06.13-14.50.44:022][989]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.13-14.50.44:095][989]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_Shoot" FILE="../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/Blueprint/BP_Shoot.uasset" SILENT=true
+[2026.06.13-14.50.44:107][989]LogSavePackage: Moving output files for package: /Game/Blueprint/BP_Shoot
+[2026.06.13-14.50.44:108][989]LogSavePackage: Moving '../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Saved/BP_Shoot35370ADB43D0E3B7ABAFC58DE8B5AA84.tmp' to '../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/Blueprint/BP_Shoot.uasset'
+[2026.06.13-14.50.44:118][989]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 1.03 sec)
+[2026.06.13-14.50.44:125][989]AssetCheck: New page: Asset Save: BP_Shoot
+[2026.06.13-14.50.44:125][989]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprint/BP_Shoot.BP_Shoot
+[2026.06.13-14.50.44:788][ 66]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.13-14.50.44:836][ 66]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_Shoot" FILE="../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/Blueprint/BP_Shoot.uasset" SILENT=true
+[2026.06.13-14.50.44:850][ 66]LogSavePackage: Moving output files for package: /Game/Blueprint/BP_Shoot
+[2026.06.13-14.50.44:850][ 66]LogSavePackage: Moving '../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Saved/BP_Shoot61B217694EF603C8F0E7DBBC51A4A157.tmp' to '../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/Blueprint/BP_Shoot.uasset'
+[2026.06.13-14.50.44:858][ 66]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 1.10 sec)
+[2026.06.13-14.50.44:861][ 66]AssetCheck: New page: Asset Save: BP_Shoot
+[2026.06.13-14.50.44:861][ 66]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprint/BP_Shoot.BP_Shoot
+[2026.06.13-14.51.29:973][542]BlueprintLog: New page: Compile BP_Player
+[2026.06.13-14.51.30:031][542]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2026.06.13-14.51.30:093][542]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.13-14.51.30:142][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PLAYER/BP_Player" FILE="../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/PLAYER/BP_Player.uasset" SILENT=true
+[2026.06.13-14.51.30:171][542]LogSavePackage: Moving output files for package: /Game/PLAYER/BP_Player
+[2026.06.13-14.51.30:171][542]LogSavePackage: Moving '../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Saved/BP_Player7B9546F84B59AA86778BB6B2262214D7.tmp' to '../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/PLAYER/BP_Player.uasset'
+[2026.06.13-14.51.30:182][542]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 1.19 sec)
+[2026.06.13-14.51.30:184][542]AssetCheck: New page: Asset Save: BP_Player
+[2026.06.13-14.51.30:184][542]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/PLAYER/BP_Player.BP_Player
+[2026.06.13-14.51.30:906][629]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.13-14.51.30:953][629]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PLAYER/BP_Player" FILE="../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/PLAYER/BP_Player.uasset" SILENT=true
+[2026.06.13-14.51.30:981][629]LogSavePackage: Moving output files for package: /Game/PLAYER/BP_Player
+[2026.06.13-14.51.30:982][629]LogSavePackage: Moving '../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Saved/BP_Player1AD1705346334A1035DADB9BA235F531.tmp' to '../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/PLAYER/BP_Player.uasset'
+[2026.06.13-14.51.30:993][629]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 1.28 sec)
+[2026.06.13-14.51.30:994][629]AssetCheck: New page: Asset Save: BP_Player
+[2026.06.13-14.51.30:994][629]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/PLAYER/BP_Player.BP_Player
+[2026.06.13-14.52.17:084][420]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2026.06.13-14.52.17:128][420]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MAP/Labirint_Auto2
+[2026.06.13-14.52.17:130][420]LogSavePackage: Moving '../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Saved/Labirint_Auto2DDFC8F544EC3763DD47355B2B276E70E.tmp' to '../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Saved/Autosaves/Game/MAP/Labirint_Auto2.umap'
+[2026.06.13-14.52.17:131][420]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Saved/Autosaves/Game/MAP/Labirint_Auto2.umap is in the /Temp path, will not scan.
+[2026.06.13-14.52.17:131][420]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MAP/Labirint' took 0.064
+[2026.06.13-14.52.17:131][420]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.064
+[2026.06.13-14.52.17:132][420]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PLAYER/BP_Player] ([2] browsable assets)...
+[2026.06.13-14.52.17:132][420]OBJ SavePackage: Finished generating thumbnails for package [/Game/PLAYER/BP_Player]
+[2026.06.13-14.52.17:159][420]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PLAYER/BP_Player_Auto2
+[2026.06.13-14.52.17:159][420]LogSavePackage: Moving '../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Saved/BP_Player_Auto2688B77C040BB7F080A3FBFBDEEF1468C.tmp' to '../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Saved/Autosaves/Game/PLAYER/BP_Player_Auto2.uasset'
+[2026.06.13-14.52.17:160][420]LogFileHelpers: Auto-saving content packages took 0.030
+[2026.06.13-14.53.56:882][110]BlueprintLog: New page: Compile BP_Shoot
+[2026.06.13-14.53.56:922][110]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2026.06.13-14.53.56:951][110]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.13-14.53.57:023][110]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_Shoot" FILE="../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/Blueprint/BP_Shoot.uasset" SILENT=true
+[2026.06.13-14.53.57:037][110]LogSavePackage: Moving output files for package: /Game/Blueprint/BP_Shoot
+[2026.06.13-14.53.57:037][110]LogSavePackage: Moving '../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Saved/BP_Shoot2A2D905049396ABB656DDE83721AF72F.tmp' to '../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/Blueprint/BP_Shoot.uasset'
+[2026.06.13-14.53.57:046][110]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 1.37 sec)
+[2026.06.13-14.53.57:052][110]AssetCheck: New page: Asset Save: BP_Shoot
+[2026.06.13-14.53.57:052][110]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprint/BP_Shoot.BP_Shoot
+[2026.06.13-14.53.57:697][181]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.13-14.53.57:752][181]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_Shoot" FILE="../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/Blueprint/BP_Shoot.uasset" SILENT=true
+[2026.06.13-14.53.57:765][181]LogSavePackage: Moving output files for package: /Game/Blueprint/BP_Shoot
+[2026.06.13-14.53.57:765][181]LogSavePackage: Moving '../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Saved/BP_Shoot30F28E5740889401F862D98EF9BC567C.tmp' to '../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/Blueprint/BP_Shoot.uasset'
+[2026.06.13-14.53.57:776][181]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 1.45 sec)
+[2026.06.13-14.53.57:780][181]AssetCheck: New page: Asset Save: BP_Shoot
+[2026.06.13-14.53.57:780][181]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprint/BP_Shoot.BP_Shoot
+[2026.06.13-14.55.49:028][362]BlueprintLog: New page: Compile BP_Shoot
+[2026.06.13-14.55.49:072][362]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2026.06.13-14.55.49:102][362]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.13-14.55.49:185][362]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_Shoot" FILE="../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/Blueprint/BP_Shoot.uasset" SILENT=true
+[2026.06.13-14.55.49:199][362]LogSavePackage: Moving output files for package: /Game/Blueprint/BP_Shoot
+[2026.06.13-14.55.49:199][362]LogSavePackage: Moving '../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Saved/BP_ShootEFCEEA3346D763EFD0D00A9FD2B1F4B4.tmp' to '../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/Blueprint/BP_Shoot.uasset'
+[2026.06.13-14.55.49:210][362]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 1.56 sec)
+[2026.06.13-14.55.49:217][362]AssetCheck: New page: Asset Save: BP_Shoot
+[2026.06.13-14.55.49:217][362]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprint/BP_Shoot.BP_Shoot
+[2026.06.13-14.55.49:561][401]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.13-14.55.49:614][401]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_Shoot" FILE="../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/Blueprint/BP_Shoot.uasset" SILENT=true
+[2026.06.13-14.55.49:630][401]LogSavePackage: Moving output files for package: /Game/Blueprint/BP_Shoot
+[2026.06.13-14.55.49:630][401]LogSavePackage: Moving '../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Saved/BP_Shoot09722C674A32158389F088958B0FF139.tmp' to '../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/Blueprint/BP_Shoot.uasset'
+[2026.06.13-14.55.49:640][401]LogFileHelpers: InternalPromptForCheckoutAndSave took 78 ms (total: 1.64 sec)
+[2026.06.13-14.55.49:642][401]AssetCheck: New page: Asset Save: BP_Shoot
+[2026.06.13-14.55.49:642][401]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprint/BP_Shoot.BP_Shoot
+[2026.06.13-14.55.55:145][183]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.06.13-14.55.55:155][183]BlueprintLog: New page: Pre-Play auto-recompile
+[2026.06.13-14.55.55:161][183]LogPlayLevel: [PlayLevel] Compiling BP_Player before play...
+[2026.06.13-14.55.55:248][183]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.13-14.55.55:294][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PLAYER/BP_Player" FILE="../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/PLAYER/BP_Player.uasset" SILENT=true
+[2026.06.13-14.55.55:325][183]LogSavePackage: Moving output files for package: /Game/PLAYER/BP_Player
+[2026.06.13-14.55.55:326][183]LogSavePackage: Moving '../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Saved/BP_PlayerAB8C8EB34D5D777443346E8E6FD3B84B.tmp' to '../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/PLAYER/BP_Player.uasset'
+[2026.06.13-14.55.55:337][183]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 1.73 sec)
+[2026.06.13-14.55.55:356][183]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2026.06.13-14.55.55:359][183]LogPlayLevel: PlayLevel: Blueprint regeneration took 203 ms (1 blueprints)
+[2026.06.13-14.55.55:359][183]PIE: New page: PIE session: Labirint (13 Jun 2026, 8:55:55 pm)
+[2026.06.13-14.55.55:380][183]LogPlayLevel: Creating play world package: /Game/MAP/UEDPIE_0_Labirint
+[2026.06.13-14.55.55:392][183]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012453s)
+[2026.06.13-14.55.55:392][183]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MAP/Labirint.Labirint to /Game/MAP/UEDPIE_0_Labirint.Labirint (0.012531s)
+[2026.06.13-14.55.55:408][183]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2026.06.13-14.55.55:409][183]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.06.13-14.55.55:409][183]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.06.13-14.55.55:410][183]LogAIModule: Creating AISystem for world Labirint
+[2026.06.13-14.55.55:410][183]LogPlayLevel: PIE: World Init took: (0.001134s)
+[2026.06.13-14.55.55:410][183]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2026.06.13-14.55.55:410][183]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.13-14.55.55:410][183]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.13-14.55.55:410][183]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.13-14.55.55:410][183]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.13-14.55.55:410][183]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.13-14.55.55:410][183]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.13-14.55.55:410][183]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.13-14.55.55:410][183]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.13-14.55.55:411][183]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.13-14.55.55:411][183]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.13-14.55.55:411][183]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.13-14.55.55:413][183]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.13-14.55.55:440][183]LogAudioMixer: Display: Using Audio Hardware Device Динамики (3- USB Audio Device)
+[2026.06.13-14.55.55:440][183]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.13-14.55.55:441][183]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.13-14.55.55:441][183]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.13-14.55.55:441][183]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2026.06.13-14.55.55:441][183]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2026.06.13-14.55.55:443][183]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2026.06.13-14.55.55:443][183]LogInit: FAudioDevice initialized with ID 11.
+[2026.06.13-14.55.55:443][183]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2026.06.13-14.55.55:443][183]LogAudio: Display: Audio Device (ID: 11) registered with world 'Labirint'.
+[2026.06.13-14.55.55:443][183]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2026.06.13-14.55.55:447][183]LogLoad: Game class is 'BP_LabirintGM_C'
+[2026.06.13-14.55.55:454][183]LogWorld: Bringing World /Game/MAP/UEDPIE_0_Labirint.Labirint up for play (max tick rate 2000) at 2026.06.13-17.55.55
+[2026.06.13-14.55.55:454][183]LogWorld: Bringing up level for play took: 0.006922
+[2026.06.13-14.55.55:456][183]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2026.06.13-14.55.55:458][183]PIE: Server logged in
+[2026.06.13-14.55.55:459][183]PIE: Play in editor total start time 0.304 seconds.
+[2026.06.13-14.55.55:472][184]AssetCheck: New page: Asset Save: BP_Player
+[2026.06.13-14.55.55:472][184]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/PLAYER/BP_Player.BP_Player
+[2026.06.13-14.56.06:069][557]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.13-14.56.06:069][557]LogWorld: BeginTearingDown for /Game/MAP/UEDPIE_0_Labirint
+[2026.06.13-14.56.06:070][557]LogWorld: UWorld::CleanupWorld for Labirint, bSessionEnded=true, bCleanupResources=true
+[2026.06.13-14.56.06:071][557]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.13-14.56.06:077][557]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.13-14.56.06:084][557]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.13-14.56.06:098][557]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.13-14.56.06:099][557]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2026.06.13-14.56.06:099][557]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2026.06.13-14.56.06:101][557]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2026.06.13-14.56.06:110][557]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2026.06.13-14.56.06:167][558]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2026.06.13-14.56.08:687][770]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.06.13-14.56.18:741][660]LogEditorViewport: Clicking Background
+[2026.06.13-14.56.59:326][130]BlueprintLog: New page: Compile BP_Shoot
+[2026.06.13-14.56.59:364][130]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2026.06.13-14.56.59:398][130]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.13-14.56.59:477][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_Shoot" FILE="../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/Blueprint/BP_Shoot.uasset" SILENT=true
+[2026.06.13-14.56.59:493][130]LogSavePackage: Moving output files for package: /Game/Blueprint/BP_Shoot
+[2026.06.13-14.56.59:494][130]LogSavePackage: Moving '../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Saved/BP_ShootF360ABD647024061E771AFA99EC2E130.tmp' to '../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/Blueprint/BP_Shoot.uasset'
+[2026.06.13-14.56.59:504][130]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 1.83 sec)
+[2026.06.13-14.56.59:506][130]AssetCheck: New page: Asset Save: BP_Shoot
+[2026.06.13-14.56.59:506][130]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprint/BP_Shoot.BP_Shoot
+[2026.06.13-14.56.59:924][159]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.13-14.56.59:972][159]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_Shoot" FILE="../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/Blueprint/BP_Shoot.uasset" SILENT=true
+[2026.06.13-14.56.59:986][159]LogSavePackage: Moving output files for package: /Game/Blueprint/BP_Shoot
+[2026.06.13-14.56.59:987][159]LogSavePackage: Moving '../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Saved/BP_ShootA2410D8A4D6A3D6D43FBAFAA8798A3CC.tmp' to '../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/Blueprint/BP_Shoot.uasset'
+[2026.06.13-14.56.59:997][159]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 1.91 sec)
+[2026.06.13-14.57.00:000][159]AssetCheck: New page: Asset Save: BP_Shoot
+[2026.06.13-14.57.00:000][159]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprint/BP_Shoot.BP_Shoot
+[2026.06.13-14.59.34:074][582]LogEditorTransaction: Undo Add Pin
+[2026.06.13-14.59.34:256][584]LogEditorTransaction: Undo Move Node
+[2026.06.13-15.00.25:730][333]BlueprintLog: New page: Compile BP_Shoot
+[2026.06.13-15.00.25:772][333]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2026.06.13-15.00.25:811][333]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.13-15.00.25:885][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_Shoot" FILE="../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/Blueprint/BP_Shoot.uasset" SILENT=true
+[2026.06.13-15.00.25:904][333]LogSavePackage: Moving output files for package: /Game/Blueprint/BP_Shoot
+[2026.06.13-15.00.25:905][333]LogSavePackage: Moving '../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Saved/BP_Shoot953035A64B9B58EDF3FF499550CB951D.tmp' to '../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/Blueprint/BP_Shoot.uasset'
+[2026.06.13-15.00.25:914][333]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 2.01 sec)
+[2026.06.13-15.00.25:985][333]AssetCheck: New page: Asset Save: BP_Shoot
+[2026.06.13-15.00.25:985][333]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprint/BP_Shoot.BP_Shoot
+[2026.06.13-15.00.26:229][348]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.13-15.00.26:282][348]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_Shoot" FILE="../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/Blueprint/BP_Shoot.uasset" SILENT=true
+[2026.06.13-15.00.26:300][348]LogSavePackage: Moving output files for package: /Game/Blueprint/BP_Shoot
+[2026.06.13-15.00.26:301][348]LogSavePackage: Moving '../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Saved/BP_ShootCE76DCDF4DA0A4DA9A09CEAC0FC32BE2.tmp' to '../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/Blueprint/BP_Shoot.uasset'
+[2026.06.13-15.00.26:313][348]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 2.09 sec)
+[2026.06.13-15.00.26:317][348]AssetCheck: New page: Asset Save: BP_Shoot
+[2026.06.13-15.00.26:317][348]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprint/BP_Shoot.BP_Shoot
+[2026.06.13-15.00.27:416][447]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.06.13-15.00.27:426][447]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.13-15.00.27:426][447]PIE: New page: PIE session: Labirint (13 Jun 2026, 9:00:27 pm)
+[2026.06.13-15.00.27:426][447]LogPlayLevel: Creating play world package: /Game/MAP/UEDPIE_0_Labirint
+[2026.06.13-15.00.27:439][447]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013033s)
+[2026.06.13-15.00.27:439][447]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MAP/Labirint.Labirint to /Game/MAP/UEDPIE_0_Labirint.Labirint (0.013080s)
+[2026.06.13-15.00.27:456][447]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2026.06.13-15.00.27:459][447]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.06.13-15.00.27:459][447]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.06.13-15.00.27:459][447]LogAIModule: Creating AISystem for world Labirint
+[2026.06.13-15.00.27:460][447]LogPlayLevel: PIE: World Init took: (0.001084s)
+[2026.06.13-15.00.27:460][447]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2026.06.13-15.00.27:460][447]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.13-15.00.27:460][447]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.13-15.00.27:460][447]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.13-15.00.27:460][447]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.13-15.00.27:460][447]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.13-15.00.27:460][447]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.13-15.00.27:460][447]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.13-15.00.27:460][447]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.13-15.00.27:461][447]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.13-15.00.27:461][447]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.13-15.00.27:461][447]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.13-15.00.27:463][447]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.13-15.00.27:492][447]LogAudioMixer: Display: Using Audio Hardware Device Динамики (3- USB Audio Device)
+[2026.06.13-15.00.27:492][447]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.13-15.00.27:492][447]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.13-15.00.27:492][447]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.13-15.00.27:493][447]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2026.06.13-15.00.27:493][447]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2026.06.13-15.00.27:496][447]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2026.06.13-15.00.27:496][447]LogInit: FAudioDevice initialized with ID 12.
+[2026.06.13-15.00.27:496][447]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2026.06.13-15.00.27:496][447]LogAudio: Display: Audio Device (ID: 12) registered with world 'Labirint'.
+[2026.06.13-15.00.27:496][447]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2026.06.13-15.00.27:499][447]LogLoad: Game class is 'BP_LabirintGM_C'
+[2026.06.13-15.00.27:506][447]LogWorld: Bringing World /Game/MAP/UEDPIE_0_Labirint.Labirint up for play (max tick rate 2000) at 2026.06.13-18.00.27
+[2026.06.13-15.00.27:506][447]LogWorld: Bringing up level for play took: 0.007189
+[2026.06.13-15.00.27:509][447]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2026.06.13-15.00.27:510][447]PIE: Server logged in
+[2026.06.13-15.00.27:511][447]PIE: Play in editor total start time 0.085 seconds.
+[2026.06.13-15.00.32:789][100]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.13-15.00.32:789][100]LogWorld: BeginTearingDown for /Game/MAP/UEDPIE_0_Labirint
+[2026.06.13-15.00.32:790][100]LogWorld: UWorld::CleanupWorld for Labirint, bSessionEnded=true, bCleanupResources=true
+[2026.06.13-15.00.32:790][100]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.13-15.00.32:821][100]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.13-15.00.32:826][100]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.13-15.00.32:841][100]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.13-15.00.32:843][100]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2026.06.13-15.00.32:843][100]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2026.06.13-15.00.32:844][100]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2026.06.13-15.00.32:852][100]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2026.06.13-15.00.32:890][101]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2026.06.13-15.00.42:065][955]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.06.13-15.00.42:075][955]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.13-15.00.42:075][955]PIE: New page: PIE session: Labirint (13 Jun 2026, 9:00:42 pm)
+[2026.06.13-15.00.42:100][955]LogPlayLevel: Creating play world package: /Game/MAP/UEDPIE_0_Labirint
+[2026.06.13-15.00.42:113][955]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013512s)
+[2026.06.13-15.00.42:113][955]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MAP/Labirint.Labirint to /Game/MAP/UEDPIE_0_Labirint.Labirint (0.013581s)
+[2026.06.13-15.00.42:129][955]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2026.06.13-15.00.42:131][955]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.06.13-15.00.42:131][955]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.06.13-15.00.42:131][955]LogAIModule: Creating AISystem for world Labirint
+[2026.06.13-15.00.42:132][955]LogPlayLevel: PIE: World Init took: (0.001076s)
+[2026.06.13-15.00.42:132][955]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2026.06.13-15.00.42:132][955]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.13-15.00.42:132][955]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.13-15.00.42:132][955]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.13-15.00.42:132][955]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.13-15.00.42:132][955]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.13-15.00.42:132][955]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.13-15.00.42:132][955]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.13-15.00.42:132][955]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.13-15.00.42:133][955]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.13-15.00.42:133][955]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.13-15.00.42:133][955]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.13-15.00.42:135][955]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.13-15.00.42:162][955]LogAudioMixer: Display: Using Audio Hardware Device Динамики (3- USB Audio Device)
+[2026.06.13-15.00.42:163][955]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.13-15.00.42:163][955]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.13-15.00.42:163][955]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.13-15.00.42:163][955]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2026.06.13-15.00.42:163][955]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2026.06.13-15.00.42:166][955]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2026.06.13-15.00.42:166][955]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2026.06.13-15.00.42:166][955]LogInit: FAudioDevice initialized with ID 13.
+[2026.06.13-15.00.42:166][955]LogAudio: Display: Audio Device (ID: 13) registered with world 'Labirint'.
+[2026.06.13-15.00.42:166][955]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2026.06.13-15.00.42:169][955]LogLoad: Game class is 'BP_LabirintGM_C'
+[2026.06.13-15.00.42:175][955]LogWorld: Bringing World /Game/MAP/UEDPIE_0_Labirint.Labirint up for play (max tick rate 2000) at 2026.06.13-18.00.42
+[2026.06.13-15.00.42:176][955]LogWorld: Bringing up level for play took: 0.006673
+[2026.06.13-15.00.42:178][955]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2026.06.13-15.00.42:179][955]PIE: Server logged in
+[2026.06.13-15.00.42:180][955]PIE: Play in editor total start time 0.105 seconds.
+[2026.06.13-15.00.44:399][216]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.13-15.00.44:399][216]LogWorld: BeginTearingDown for /Game/MAP/UEDPIE_0_Labirint
+[2026.06.13-15.00.44:400][216]LogWorld: UWorld::CleanupWorld for Labirint, bSessionEnded=true, bCleanupResources=true
+[2026.06.13-15.00.44:401][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.13-15.00.44:406][216]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.13-15.00.44:413][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.13-15.00.44:427][216]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.13-15.00.44:429][216]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2026.06.13-15.00.44:429][216]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2026.06.13-15.00.44:431][216]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2026.06.13-15.00.44:439][216]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2026.06.13-15.00.44:472][217]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2026.06.13-15.00.50:549][739]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.06.13-15.00.51:653][840]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.06.13-15.00.51:662][840]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.13-15.00.51:662][840]PIE: New page: PIE session: Labirint (13 Jun 2026, 9:00:51 pm)
+[2026.06.13-15.00.51:662][840]LogPlayLevel: Creating play world package: /Game/MAP/UEDPIE_0_Labirint
+[2026.06.13-15.00.51:675][840]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012603s)
+[2026.06.13-15.00.51:675][840]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MAP/Labirint.Labirint to /Game/MAP/UEDPIE_0_Labirint.Labirint (0.012647s)
+[2026.06.13-15.00.51:691][840]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2026.06.13-15.00.51:694][840]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.06.13-15.00.51:694][840]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.06.13-15.00.51:695][840]LogAIModule: Creating AISystem for world Labirint
+[2026.06.13-15.00.51:695][840]LogPlayLevel: PIE: World Init took: (0.001528s)
+[2026.06.13-15.00.51:695][840]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2026.06.13-15.00.51:695][840]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.13-15.00.51:695][840]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.13-15.00.51:695][840]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.13-15.00.51:695][840]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.13-15.00.51:695][840]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.13-15.00.51:695][840]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.13-15.00.51:695][840]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.13-15.00.51:695][840]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.13-15.00.51:696][840]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.13-15.00.51:696][840]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.13-15.00.51:697][840]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.13-15.00.51:699][840]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.13-15.00.51:729][840]LogAudioMixer: Display: Using Audio Hardware Device Динамики (3- USB Audio Device)
+[2026.06.13-15.00.51:730][840]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.13-15.00.51:730][840]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.13-15.00.51:730][840]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.13-15.00.51:731][840]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2026.06.13-15.00.51:731][840]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2026.06.13-15.00.51:733][840]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2026.06.13-15.00.51:733][840]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2026.06.13-15.00.51:733][840]LogInit: FAudioDevice initialized with ID 14.
+[2026.06.13-15.00.51:733][840]LogAudio: Display: Audio Device (ID: 14) registered with world 'Labirint'.
+[2026.06.13-15.00.51:733][840]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2026.06.13-15.00.51:735][840]LogLoad: Game class is 'BP_LabirintGM_C'
+[2026.06.13-15.00.51:742][840]LogWorld: Bringing World /Game/MAP/UEDPIE_0_Labirint.Labirint up for play (max tick rate 2000) at 2026.06.13-18.00.51
+[2026.06.13-15.00.51:742][840]LogWorld: Bringing up level for play took: 0.006903
+[2026.06.13-15.00.51:744][840]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2026.06.13-15.00.51:746][840]PIE: Server logged in
+[2026.06.13-15.00.51:746][840]PIE: Play in editor total start time 0.085 seconds.
+[2026.06.13-15.01.04:919][578]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.13-15.01.04:919][578]LogWorld: BeginTearingDown for /Game/MAP/UEDPIE_0_Labirint
+[2026.06.13-15.01.04:921][578]LogWorld: UWorld::CleanupWorld for Labirint, bSessionEnded=true, bCleanupResources=true
+[2026.06.13-15.01.04:923][578]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.13-15.01.04:928][578]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.13-15.01.04:935][578]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.13-15.01.04:949][578]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.13-15.01.04:950][578]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2026.06.13-15.01.04:950][578]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2026.06.13-15.01.04:952][578]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2026.06.13-15.01.04:961][578]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2026.06.13-15.01.05:030][579]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2026.06.13-15.01.43:044][672]BlueprintLog: New page: Compile BP_Shoot
+[2026.06.13-15.01.43:091][672]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2026.06.13-15.01.43:138][672]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.13-15.01.43:218][672]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_Shoot" FILE="../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/Blueprint/BP_Shoot.uasset" SILENT=true
+[2026.06.13-15.01.43:241][672]LogSavePackage: Moving output files for package: /Game/Blueprint/BP_Shoot
+[2026.06.13-15.01.43:241][672]LogSavePackage: Moving '../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Saved/BP_Shoot5A1BBBD346BE095A97FF74ADCEF25A4E.tmp' to '../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/Blueprint/BP_Shoot.uasset'
+[2026.06.13-15.01.43:255][672]LogFileHelpers: InternalPromptForCheckoutAndSave took 116 ms (total: 2.21 sec)
+[2026.06.13-15.01.43:257][672]AssetCheck: New page: Asset Save: BP_Shoot
+[2026.06.13-15.01.43:257][672]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprint/BP_Shoot.BP_Shoot
+[2026.06.13-15.01.43:849][718]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.13-15.01.43:907][718]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_Shoot" FILE="../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/Blueprint/BP_Shoot.uasset" SILENT=true
+[2026.06.13-15.01.43:926][718]LogSavePackage: Moving output files for package: /Game/Blueprint/BP_Shoot
+[2026.06.13-15.01.43:927][718]LogSavePackage: Moving '../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Saved/BP_ShootC571EFEF462BA795A202FD843EC7AF0C.tmp' to '../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/Blueprint/BP_Shoot.uasset'
+[2026.06.13-15.01.43:941][718]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 2.30 sec)
+[2026.06.13-15.01.43:945][718]AssetCheck: New page: Asset Save: BP_Shoot
+[2026.06.13-15.01.43:945][718]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprint/BP_Shoot.BP_Shoot
+[2026.06.13-15.01.45:240][831]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.06.13-15.01.45:252][831]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.13-15.01.45:252][831]PIE: New page: PIE session: Labirint (13 Jun 2026, 9:01:45 pm)
+[2026.06.13-15.01.45:252][831]LogPlayLevel: Creating play world package: /Game/MAP/UEDPIE_0_Labirint
+[2026.06.13-15.01.45:265][831]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013130s)
+[2026.06.13-15.01.45:265][831]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MAP/Labirint.Labirint to /Game/MAP/UEDPIE_0_Labirint.Labirint (0.013172s)
+[2026.06.13-15.01.45:280][831]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2026.06.13-15.01.45:282][831]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.06.13-15.01.45:282][831]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.06.13-15.01.45:282][831]LogAIModule: Creating AISystem for world Labirint
+[2026.06.13-15.01.45:283][831]LogPlayLevel: PIE: World Init took: (0.001087s)
+[2026.06.13-15.01.45:283][831]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2026.06.13-15.01.45:283][831]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.13-15.01.45:283][831]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.13-15.01.45:283][831]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.13-15.01.45:283][831]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.13-15.01.45:283][831]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.13-15.01.45:283][831]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.13-15.01.45:283][831]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.13-15.01.45:283][831]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.13-15.01.45:284][831]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.13-15.01.45:284][831]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.13-15.01.45:284][831]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.13-15.01.45:287][831]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.13-15.01.45:315][831]LogAudioMixer: Display: Using Audio Hardware Device Динамики (3- USB Audio Device)
+[2026.06.13-15.01.45:315][831]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.13-15.01.45:316][831]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.13-15.01.45:316][831]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.13-15.01.45:316][831]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2026.06.13-15.01.45:316][831]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2026.06.13-15.01.45:317][831]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2026.06.13-15.01.45:317][831]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2026.06.13-15.01.45:317][831]LogInit: FAudioDevice initialized with ID 15.
+[2026.06.13-15.01.45:317][831]LogAudio: Display: Audio Device (ID: 15) registered with world 'Labirint'.
+[2026.06.13-15.01.45:317][831]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2026.06.13-15.01.45:322][831]LogLoad: Game class is 'BP_LabirintGM_C'
+[2026.06.13-15.01.45:329][831]LogWorld: Bringing World /Game/MAP/UEDPIE_0_Labirint.Labirint up for play (max tick rate 2000) at 2026.06.13-18.01.45
+[2026.06.13-15.01.45:329][831]LogWorld: Bringing up level for play took: 0.007288
+[2026.06.13-15.01.45:331][831]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2026.06.13-15.01.45:333][831]PIE: Server logged in
+[2026.06.13-15.01.45:334][831]PIE: Play in editor total start time 0.082 seconds.
+[2026.06.13-15.01.51:180][524]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.13-15.01.51:180][524]LogWorld: BeginTearingDown for /Game/MAP/UEDPIE_0_Labirint
+[2026.06.13-15.01.51:180][524]LogWorld: UWorld::CleanupWorld for Labirint, bSessionEnded=true, bCleanupResources=true
+[2026.06.13-15.01.51:181][524]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.13-15.01.51:211][524]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.13-15.01.51:216][524]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.13-15.01.51:230][524]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.06.13-15.01.51:230][524]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2026.06.13-15.01.51:230][524]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2026.06.13-15.01.51:232][524]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2026.06.13-15.01.51:237][524]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.13-15.01.51:241][524]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2026.06.13-15.01.51:287][525]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2026.06.13-15.01.52:070][593]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.06.13-15.01.52:078][593]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.13-15.01.52:078][593]PIE: New page: PIE session: Labirint (13 Jun 2026, 9:01:52 pm)
+[2026.06.13-15.01.52:079][593]LogPlayLevel: Creating play world package: /Game/MAP/UEDPIE_0_Labirint
+[2026.06.13-15.01.52:091][593]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012406s)
+[2026.06.13-15.01.52:091][593]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MAP/Labirint.Labirint to /Game/MAP/UEDPIE_0_Labirint.Labirint (0.012454s)
+[2026.06.13-15.01.52:105][593]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2026.06.13-15.01.52:107][593]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.06.13-15.01.52:107][593]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.06.13-15.01.52:109][593]LogAIModule: Creating AISystem for world Labirint
+[2026.06.13-15.01.52:109][593]LogPlayLevel: PIE: World Init took: (0.001403s)
+[2026.06.13-15.01.52:109][593]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2026.06.13-15.01.52:110][593]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.13-15.01.52:110][593]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.13-15.01.52:110][593]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.13-15.01.52:110][593]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.13-15.01.52:110][593]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.13-15.01.52:110][593]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.13-15.01.52:110][593]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.13-15.01.52:110][593]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.13-15.01.52:111][593]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.13-15.01.52:111][593]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.13-15.01.52:111][593]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.13-15.01.52:114][593]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.13-15.01.52:140][593]LogAudioMixer: Display: Using Audio Hardware Device Динамики (3- USB Audio Device)
+[2026.06.13-15.01.52:140][593]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.13-15.01.52:140][593]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.13-15.01.52:140][593]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.13-15.01.52:141][593]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2026.06.13-15.01.52:141][593]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2026.06.13-15.01.52:144][593]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2026.06.13-15.01.52:144][593]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2026.06.13-15.01.52:144][593]LogInit: FAudioDevice initialized with ID 16.
+[2026.06.13-15.01.52:144][593]LogAudio: Display: Audio Device (ID: 16) registered with world 'Labirint'.
+[2026.06.13-15.01.52:144][593]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2026.06.13-15.01.52:147][593]LogLoad: Game class is 'BP_LabirintGM_C'
+[2026.06.13-15.01.52:154][593]LogWorld: Bringing World /Game/MAP/UEDPIE_0_Labirint.Labirint up for play (max tick rate 2000) at 2026.06.13-18.01.52
+[2026.06.13-15.01.52:154][593]LogWorld: Bringing up level for play took: 0.007119
+[2026.06.13-15.01.52:156][593]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2026.06.13-15.01.52:158][593]PIE: Server logged in
+[2026.06.13-15.01.52:159][593]PIE: Play in editor total start time 0.081 seconds.
+[2026.06.13-15.01.53:810][774]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.13-15.01.53:810][774]LogWorld: BeginTearingDown for /Game/MAP/UEDPIE_0_Labirint
+[2026.06.13-15.01.53:810][774]LogWorld: UWorld::CleanupWorld for Labirint, bSessionEnded=true, bCleanupResources=true
+[2026.06.13-15.01.53:812][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.13-15.01.53:819][774]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.13-15.01.53:824][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.13-15.01.53:841][774]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.13-15.01.53:844][774]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2026.06.13-15.01.53:844][774]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2026.06.13-15.01.53:845][774]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2026.06.13-15.01.53:856][774]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2026.06.13-15.01.53:911][775]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2026.06.13-15.02.05:540][706]Cmd: DELETE
+[2026.06.13-15.02.05:540][706]Cmd: ACTOR DELETE
+[2026.06.13-15.02.05:544][706]LogEditorActor: Deleted Actor: BP_Arrow_C
+[2026.06.13-15.02.05:564][706]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2026.06.13-15.02.05:569][706]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2026.06.13-15.02.07:174][849]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.06.13-15.02.07:184][849]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.13-15.02.07:184][849]PIE: New page: PIE session: Labirint (13 Jun 2026, 9:02:07 pm)
+[2026.06.13-15.02.07:184][849]LogPlayLevel: Creating play world package: /Game/MAP/UEDPIE_0_Labirint
+[2026.06.13-15.02.07:202][849]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016836s)
+[2026.06.13-15.02.07:202][849]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MAP/Labirint.Labirint to /Game/MAP/UEDPIE_0_Labirint.Labirint (0.016883s)
+[2026.06.13-15.02.07:219][849]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2026.06.13-15.02.07:221][849]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.06.13-15.02.07:221][849]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.06.13-15.02.07:222][849]LogAIModule: Creating AISystem for world Labirint
+[2026.06.13-15.02.07:223][849]LogPlayLevel: PIE: World Init took: (0.001598s)
+[2026.06.13-15.02.07:223][849]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2026.06.13-15.02.07:223][849]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.13-15.02.07:223][849]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.13-15.02.07:223][849]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.13-15.02.07:223][849]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.13-15.02.07:223][849]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.13-15.02.07:223][849]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.13-15.02.07:223][849]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.13-15.02.07:223][849]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.13-15.02.07:224][849]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.13-15.02.07:224][849]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.13-15.02.07:224][849]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.13-15.02.07:226][849]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.13-15.02.07:254][849]LogAudioMixer: Display: Using Audio Hardware Device Динамики (3- USB Audio Device)
+[2026.06.13-15.02.07:255][849]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.13-15.02.07:255][849]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.13-15.02.07:255][849]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.13-15.02.07:255][849]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2026.06.13-15.02.07:255][849]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2026.06.13-15.02.07:257][849]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2026.06.13-15.02.07:257][849]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2026.06.13-15.02.07:257][849]LogInit: FAudioDevice initialized with ID 17.
+[2026.06.13-15.02.07:257][849]LogAudio: Display: Audio Device (ID: 17) registered with world 'Labirint'.
+[2026.06.13-15.02.07:257][849]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2026.06.13-15.02.07:261][849]LogLoad: Game class is 'BP_LabirintGM_C'
+[2026.06.13-15.02.07:270][849]LogWorld: Bringing World /Game/MAP/UEDPIE_0_Labirint.Labirint up for play (max tick rate 2000) at 2026.06.13-18.02.07
+[2026.06.13-15.02.07:271][849]LogWorld: Bringing up level for play took: 0.010211
+[2026.06.13-15.02.07:273][849]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2026.06.13-15.02.07:274][849]PIE: Server logged in
+[2026.06.13-15.02.07:275][849]PIE: Play in editor total start time 0.092 seconds.
+[2026.06.13-15.02.17:110][ 62]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.13-15.02.17:110][ 62]LogWorld: BeginTearingDown for /Game/MAP/UEDPIE_0_Labirint
+[2026.06.13-15.02.17:110][ 62]LogWorld: UWorld::CleanupWorld for Labirint, bSessionEnded=true, bCleanupResources=true
+[2026.06.13-15.02.17:111][ 62]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.13-15.02.17:141][ 62]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.13-15.02.17:146][ 62]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.13-15.02.17:163][ 62]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.13-15.02.17:165][ 62]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2026.06.13-15.02.17:165][ 62]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2026.06.13-15.02.17:168][ 62]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2026.06.13-15.02.17:176][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2026.06.13-15.02.17:209][ 63]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2026.06.13-15.02.31:696][215]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.06.13-15.02.31:706][215]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.13-15.02.31:706][215]PIE: New page: PIE session: Labirint (13 Jun 2026, 9:02:31 pm)
+[2026.06.13-15.02.31:729][215]LogPlayLevel: Creating play world package: /Game/MAP/UEDPIE_0_Labirint
+[2026.06.13-15.02.31:743][215]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013529s)
+[2026.06.13-15.02.31:743][215]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MAP/Labirint.Labirint to /Game/MAP/UEDPIE_0_Labirint.Labirint (0.013574s)
+[2026.06.13-15.02.31:760][215]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2026.06.13-15.02.31:762][215]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.06.13-15.02.31:762][215]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.06.13-15.02.31:763][215]LogAIModule: Creating AISystem for world Labirint
+[2026.06.13-15.02.31:763][215]LogPlayLevel: PIE: World Init took: (0.001051s)
+[2026.06.13-15.02.31:763][215]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2026.06.13-15.02.31:763][215]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.13-15.02.31:763][215]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.13-15.02.31:763][215]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.13-15.02.31:763][215]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.13-15.02.31:763][215]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.13-15.02.31:763][215]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.13-15.02.31:763][215]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.13-15.02.31:763][215]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.13-15.02.31:764][215]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.13-15.02.31:764][215]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.13-15.02.31:764][215]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.13-15.02.31:766][215]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.13-15.02.31:795][215]LogAudioMixer: Display: Using Audio Hardware Device Динамики (3- USB Audio Device)
+[2026.06.13-15.02.31:796][215]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.13-15.02.31:796][215]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.13-15.02.31:796][215]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.13-15.02.31:796][215]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2026.06.13-15.02.31:796][215]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2026.06.13-15.02.31:800][215]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2026.06.13-15.02.31:800][215]LogInit: FAudioDevice initialized with ID 18.
+[2026.06.13-15.02.31:800][215]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2026.06.13-15.02.31:800][215]LogAudio: Display: Audio Device (ID: 18) registered with world 'Labirint'.
+[2026.06.13-15.02.31:800][215]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2026.06.13-15.02.31:803][215]LogLoad: Game class is 'BP_LabirintGM_C'
+[2026.06.13-15.02.31:809][215]LogWorld: Bringing World /Game/MAP/UEDPIE_0_Labirint.Labirint up for play (max tick rate 2000) at 2026.06.13-18.02.31
+[2026.06.13-15.02.31:809][215]LogWorld: Bringing up level for play took: 0.006273
+[2026.06.13-15.02.31:812][215]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2026.06.13-15.02.31:814][215]PIE: Server logged in
+[2026.06.13-15.02.31:814][215]PIE: Play in editor total start time 0.109 seconds.
+[2026.06.13-15.02.38:799][ 32]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.13-15.02.38:799][ 32]LogWorld: BeginTearingDown for /Game/MAP/UEDPIE_0_Labirint
+[2026.06.13-15.02.38:800][ 32]LogWorld: UWorld::CleanupWorld for Labirint, bSessionEnded=true, bCleanupResources=true
+[2026.06.13-15.02.38:800][ 32]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.13-15.02.38:807][ 32]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.13-15.02.38:816][ 32]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.13-15.02.38:834][ 32]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.06.13-15.02.38:834][ 32]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2026.06.13-15.02.38:834][ 32]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2026.06.13-15.02.38:836][ 32]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2026.06.13-15.02.38:843][ 32]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.13-15.02.38:847][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2026.06.13-15.02.38:899][ 33]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2026.06.13-15.02.39:763][103]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.06.13-15.02.39:773][103]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.06.13-15.02.39:773][103]PIE: New page: PIE session: Labirint (13 Jun 2026, 9:02:39 pm)
+[2026.06.13-15.02.39:773][103]LogPlayLevel: Creating play world package: /Game/MAP/UEDPIE_0_Labirint
+[2026.06.13-15.02.39:789][103]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015523s)
+[2026.06.13-15.02.39:789][103]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MAP/Labirint.Labirint to /Game/MAP/UEDPIE_0_Labirint.Labirint (0.015569s)
+[2026.06.13-15.02.39:805][103]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2026.06.13-15.02.39:807][103]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2026.06.13-15.02.39:807][103]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2026.06.13-15.02.39:807][103]LogAIModule: Creating AISystem for world Labirint
+[2026.06.13-15.02.39:807][103]LogPlayLevel: PIE: World Init took: (0.001100s)
+[2026.06.13-15.02.39:807][103]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2026.06.13-15.02.39:807][103]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.06.13-15.02.39:807][103]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.06.13-15.02.39:807][103]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.06.13-15.02.39:807][103]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.06.13-15.02.39:807][103]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.06.13-15.02.39:807][103]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.06.13-15.02.39:807][103]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.06.13-15.02.39:807][103]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.06.13-15.02.39:809][103]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.06.13-15.02.39:809][103]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.06.13-15.02.39:809][103]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.06.13-15.02.39:811][103]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.06.13-15.02.39:841][103]LogAudioMixer: Display: Using Audio Hardware Device Динамики (3- USB Audio Device)
+[2026.06.13-15.02.39:842][103]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.06.13-15.02.39:842][103]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.06.13-15.02.39:842][103]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.06.13-15.02.39:842][103]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2026.06.13-15.02.39:842][103]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2026.06.13-15.02.39:844][103]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2026.06.13-15.02.39:845][103]LogInit: FAudioDevice initialized with ID 19.
+[2026.06.13-15.02.39:845][103]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2026.06.13-15.02.39:845][103]LogAudio: Display: Audio Device (ID: 19) registered with world 'Labirint'.
+[2026.06.13-15.02.39:845][103]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2026.06.13-15.02.39:847][103]LogLoad: Game class is 'BP_LabirintGM_C'
+[2026.06.13-15.02.39:855][103]LogWorld: Bringing World /Game/MAP/UEDPIE_0_Labirint.Labirint up for play (max tick rate 2000) at 2026.06.13-18.02.39
+[2026.06.13-15.02.39:855][103]LogWorld: Bringing up level for play took: 0.007213
+[2026.06.13-15.02.39:858][103]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2026.06.13-15.02.39:860][103]PIE: Server logged in
+[2026.06.13-15.02.39:861][103]PIE: Play in editor total start time 0.088 seconds.
+[2026.06.13-15.02.43:130][475]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.13-15.02.43:130][475]LogWorld: BeginTearingDown for /Game/MAP/UEDPIE_0_Labirint
+[2026.06.13-15.02.43:130][475]LogWorld: UWorld::CleanupWorld for Labirint, bSessionEnded=true, bCleanupResources=true
+[2026.06.13-15.02.43:131][475]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.13-15.02.43:137][475]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.06.13-15.02.43:144][475]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.13-15.02.43:159][475]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.06.13-15.02.43:160][475]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2026.06.13-15.02.43:160][475]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2026.06.13-15.02.43:162][475]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2026.06.13-15.02.43:171][475]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2026.06.13-15.02.43:227][476]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2026.06.13-15.03.03:267][833]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2026.06.13-15.03.03:273][833]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.13-15.03.03:316][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MAP/Labirint" FILE="../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/MAP/Labirint.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.06.13-15.03.03:357][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2026.06.13-15.03.03:399][833]LogSavePackage: Moving output files for package: /Game/MAP/Labirint
+[2026.06.13-15.03.03:400][833]LogSavePackage: Moving '../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Saved/Labirint4D703A4D41ED50353BEA398C94CCF0BC.tmp' to '../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/MAP/Labirint.umap'
+[2026.06.13-15.03.03:407][833]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/MAP/Labirint_BuiltData
+[2026.06.13-15.03.03:407][833]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.06.13-15.03.03:407][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MAP/Labirint_BuiltData" FILE="../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/MAP/Labirint_BuiltData.uasset" SILENT=true
+[2026.06.13-15.03.03:517][833]LogSavePackage: Moving output files for package: /Game/MAP/Labirint_BuiltData
+[2026.06.13-15.03.03:517][833]LogSavePackage: Moving '../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Saved/Labirint_BuiltDataF6FA0A64486B29AC5C11DEB8351A4D07.tmp' to '../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/MAP/Labirint_BuiltData.uasset'
+[2026.06.13-15.03.03:521][833]LogFileHelpers: InternalPromptForCheckoutAndSave took 114 ms (total: 2.42 sec)
+[2026.06.13-15.03.03:521][833]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/MAP/Labirint_BuiltData
+[2026.06.13-15.03.03:521][833]LogFileHelpers: Saving map 'Labirint' took 0.206
+[2026.06.13-15.03.03:521][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MAP/Labirint_BuiltData" FILE="../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/MAP/Labirint_BuiltData.uasset" SILENT=true
+[2026.06.13-15.03.03:603][833]LogSavePackage: Moving output files for package: /Game/MAP/Labirint_BuiltData
+[2026.06.13-15.03.03:604][833]LogSavePackage: Moving '../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Saved/Labirint_BuiltData63D6104D44C888DEFE2636BC7566B480.tmp' to '../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/MAP/Labirint_BuiltData.uasset'
+[2026.06.13-15.03.03:606][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MazeMesh/MazeMat/lambert1" FILE="../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/MazeMesh/MazeMat/lambert1.uasset" SILENT=true
+[2026.06.13-15.03.03:607][833]LogSavePackage: Moving output files for package: /Game/MazeMesh/MazeMat/lambert1
+[2026.06.13-15.03.03:607][833]LogSavePackage: Moving '../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Saved/lambert141D60A564DA5BFD5B65FF5A545C25A83.tmp' to '../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/MazeMesh/MazeMat/lambert1.uasset'
+[2026.06.13-15.03.03:608][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MazeMesh/MazeMat/M_Floor" FILE="../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/MazeMesh/MazeMat/M_Floor.uasset" SILENT=true
+[2026.06.13-15.03.03:610][833]LogSavePackage: Moving output files for package: /Game/MazeMesh/MazeMat/M_Floor
+[2026.06.13-15.03.03:610][833]LogSavePackage: Moving '../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Saved/M_Floor2E88914E4E6B3C944A4B06B7E2C3060C.tmp' to '../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/MazeMesh/MazeMat/M_Floor.uasset'
+[2026.06.13-15.03.03:612][833]LogSavePackage: Moving output files for package: /Game/MazeMesh/MazeMat/rubber_duck_texture_0_Mat
+[2026.06.13-15.03.03:613][833]LogSavePackage: Moving '../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Saved/rubber_duck_texture_0_Mat9356EDFF43B66F8D579D7CB3DFEE4284.tmp' to '../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/MazeMesh/MazeMat/rubber_duck_texture_0_Mat.uasset'
+[2026.06.13-15.03.03:614][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MazeMesh/MazeMat/M_Grass" FILE="../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/MazeMesh/MazeMat/M_Grass.uasset" SILENT=true
+[2026.06.13-15.03.03:615][833]LogSavePackage: Moving output files for package: /Game/MazeMesh/MazeMat/M_Grass
+[2026.06.13-15.03.03:616][833]LogSavePackage: Moving '../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Saved/M_GrassE0DC81A645080909BEEE479D5B46FEBB.tmp' to '../../../../../../Users/DAVIDGURIN/Documents/Unreal Projects/Labirint/Content/MazeMesh/MazeMat/M_Grass.uasset'
+[2026.06.13-15.03.03:626][833]LogFileHelpers: InternalPromptForCheckoutAndSave took 352 ms (total: 2.77 sec)
+[2026.06.13-15.03.03:634][833]AssetCheck: New page: Asset Save: multiple assets
+[2026.06.13-15.03.03:634][833]LogContentValidation: Display: Validating /Script/Engine.World /Game/MAP/Labirint.Labirint
+[2026.06.13-15.03.03:634][833]LogContentValidation: Display: Validating /Script/Engine.MapBuildDataRegistry /Game/MAP/Labirint_BuiltData.Labirint_BuiltData
+[2026.06.13-15.03.03:634][833]LogContentValidation: Display: Validating /Script/Engine.Material /Game/MazeMesh/MazeMat/lambert1.lambert1
+[2026.06.13-15.03.03:634][833]LogContentValidation: Display: Validating /Script/Engine.Material /Game/MazeMesh/MazeMat/M_Floor.M_Floor
+[2026.06.13-15.03.03:634][833]LogContentValidation: Display: Validating /Script/Engine.Material /Game/MazeMesh/MazeMat/rubber_duck_texture_0_Mat.rubber_duck_texture_0_Mat
+[2026.06.13-15.03.03:634][833]LogContentValidation: Display: Validating /Script/Engine.Material /Game/MazeMesh/MazeMat/M_Grass.M_Grass
+[2026.06.13-15.03.04:467][915]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.06.13-15.03.04:469][915]LogStall: Shutdown...
+[2026.06.13-15.03.04:474][915]LogStall: Shutdown complete.
+[2026.06.13-15.03.04:508][915]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.06.13-15.03.04:508][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.13-15.03.04:559][915]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.06.13-15.03.04:559][915]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2026.06.13-15.03.04:559][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.13-15.03.04:605][915]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.06.13-15.03.04:605][915]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.06.13-15.03.04:605][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.13-15.03.04:650][915]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.06.13-15.03.04:650][915]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.06.13-15.03.04:650][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.13-15.03.04:700][915]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2026.06.13-15.03.04:700][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.13-15.03.04:733][915]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.06.13-15.03.04:733][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.13-15.03.04:781][915]LogSlate: Window 'Labirint - Unreal Editor' being destroyed
+[2026.06.13-15.03.04:874][916]Cmd: QUIT_EDITOR
+[2026.06.13-15.03.04:874][916]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.06.13-15.03.04:884][916]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.06.13-15.03.04:884][916]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.06.13-15.03.04:884][916]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.06.13-15.03.04:886][916]LogWorld: UWorld::CleanupWorld for Labirint, bSessionEnded=true, bCleanupResources=true
+[2026.06.13-15.03.04:886][916]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.06.13-15.03.04:893][916]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.06.13-15.03.05:573][916]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.06.13-15.03.05:573][916]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.06.13-15.03.05:573][916]LogAudio: Display: Audio Device unregistered from world 'Labirint'.
+[2026.06.13-15.03.05:573][916]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2026.06.13-15.03.05:573][916]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2026.06.13-15.03.05:575][916]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2026.06.13-15.03.05:581][916]LogAudio: Display: Audio Device Manager Shutdown
+[2026.06.13-15.03.05:582][916]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2026.06.13-15.03.05:589][916]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.06.13-15.03.05:589][916]LogExit: Preparing to exit.
+[2026.06.13-15.03.05:617][916]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2026.06.13-15.03.05:627][916]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.13-15.03.05:627][916]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.13-15.03.05:627][916]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.13-15.03.05:627][916]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.13-15.03.05:627][916]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.13-15.03.05:627][916]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.13-15.03.05:629][916]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.13-15.03.05:629][916]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.13-15.03.05:629][916]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.13-15.03.05:629][916]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.13-15.03.05:629][916]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.13-15.03.05:629][916]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.13-15.03.05:629][916]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.13-15.03.05:629][916]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.13-15.03.05:629][916]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.13-15.03.05:629][916]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.13-15.03.05:629][916]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.13-15.03.05:629][916]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.13-15.03.05:629][916]LogPython: Display: Object '/Engine/PythonTypes.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.13-15.03.05:629][916]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.06.13-15.03.06:501][916]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.06.13-15.03.06:505][916]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.06.13-15.03.06:509][916]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2026.06.13-15.03.06:636][916]LogExit: Editor shut down
+[2026.06.13-15.03.06:639][916]LogExit: Transaction tracking system shut down
+[2026.06.13-15.03.06:642][916]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.06.13-15.03.06:790][916]LogExit: Object subsystem successfully closed.
+[2026.06.13-15.03.06:797][916]LogShaderCompilers: Display: ================================================
+[2026.06.13-15.03.06:797][916]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.06.13-15.03.06:797][916]LogShaderCompilers: Display: Total job queries 185, among them cache hits 0 (0.00%)
+[2026.06.13-15.03.06:797][916]LogShaderCompilers: Display: Tracking 179 distinct input hashes that result in 136 distinct outputs (75.98%)
+[2026.06.13-15.03.06:797][916]LogShaderCompilers: Display: RAM used: 3.96 MiB of 1.60 GiB budget. Usage: 0.24%
+[2026.06.13-15.03.06:797][916]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.06.13-15.03.06:797][916]LogShaderCompilers: Display: Shaders Compiled: 67
+[2026.06.13-15.03.06:797][916]LogShaderCompilers: Display: Jobs assigned 67, completed 67 (100%)
+[2026.06.13-15.03.06:797][916]LogShaderCompilers: Display: Average time worker was idle: 2.73 s
+[2026.06.13-15.03.06:797][916]LogShaderCompilers: Display: Time job spent in pending queue: average 0.90 s, longest 3.01 s
+[2026.06.13-15.03.06:797][916]LogShaderCompilers: Display: Job execution time: average 1.71 s, max 3.18 s
+[2026.06.13-15.03.06:797][916]LogShaderCompilers: Display: Job life time (pending + execution): average 2.61 s, max 4.39
+[2026.06.13-15.03.06:797][916]LogShaderCompilers: Display: Shader code size: average 39.048 KiB, min 9.395 KiB, max 58.352 KiB
+[2026.06.13-15.03.06:797][916]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 6.98 s
+[2026.06.13-15.03.06:797][916]LogShaderCompilers: Display: Jobs were issued in 40 batches (only local compilation was used), average 1.68 jobs/batch
+[2026.06.13-15.03.06:798][916]LogShaderCompilers: Display: Average processing rate: 9.60 jobs/sec
+[2026.06.13-15.03.06:798][916]LogShaderCompilers: Display: Total thread time: 33.438 s
+[2026.06.13-15.03.06:798][916]LogShaderCompilers: Display: Total thread preprocess time: 2.599 s
+[2026.06.13-15.03.06:798][916]LogShaderCompilers: Display: Percentage time preprocessing: 7.77%
+[2026.06.13-15.03.06:798][916]LogShaderCompilers: Display: Effective parallelization: 4.79 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2026.06.13-15.03.06:798][916]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.06.13-15.03.06:798][916]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    5 times, average 0.66 sec, max 1.00 sec, min 0.41 sec)
+[2026.06.13-15.03.06:798][916]LogShaderCompilers: Display:                          TLightMapDensityVSTLightMapPolicyLQ (compiled    2 times, average 0.65 sec, max 0.68 sec, min 0.62 sec)
+[2026.06.13-15.03.06:798][916]LogShaderCompilers: Display:                          TLightMapDensityVSTLightMapPolicyHQ (compiled    2 times, average 0.63 sec, max 0.72 sec, min 0.55 sec)
+[2026.06.13-15.03.06:798][916]LogShaderCompilers: Display:          TBasePassVSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    5 times, average 0.63 sec, max 0.82 sec, min 0.50 sec)
+[2026.06.13-15.03.06:798][916]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyHQSkylight (compiled    5 times, average 0.59 sec, max 0.84 sec, min 0.40 sec)
+[2026.06.13-15.03.06:798][916]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.06.13-15.03.06:798][916]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight - 9.91% of total time (compiled    5 times, average 0.66 sec, max 1.00 sec, min 0.41 sec)
+[2026.06.13-15.03.06:798][916]LogShaderCompilers: Display:          TBasePassVSTDistanceFieldShadowsAndLightMapPolicyHQ - 9.40% of total time (compiled    5 times, average 0.63 sec, max 0.82 sec, min 0.50 sec)
+[2026.06.13-15.03.06:798][916]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyHQSkylight - 8.86% of total time (compiled    5 times, average 0.59 sec, max 0.84 sec, min 0.40 sec)
+[2026.06.13-15.03.06:798][916]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight - 8.20% of total time (compiled    5 times, average 0.55 sec, max 0.97 sec, min 0.38 sec)
+[2026.06.13-15.03.06:798][916]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ - 8.17% of total time (compiled    5 times, average 0.55 sec, max 0.77 sec, min 0.39 sec)
+[2026.06.13-15.03.06:798][916]LogShaderCompilers: Display: ================================================
+[2026.06.13-15.03.06:812][916]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.06.13-15.03.06:829][916]LogVirtualization: UE::Virtualization was shutdown
+[2026.06.13-15.03.06:864][916]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (1050)
+[2026.06.13-15.03.06:875][916]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (1048)
+[2026.06.13-15.03.06:875][916]LogModuleManager: Shutting down and abandoning module Voice (1046)
+[2026.06.13-15.03.06:875][916]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (1044)
+[2026.06.13-15.03.06:875][916]LogModuleManager: Shutting down and abandoning module AddContentDialog (1042)
+[2026.06.13-15.03.06:876][916]LogModuleManager: Shutting down and abandoning module WidgetCarousel (1041)
+[2026.06.13-15.03.06:876][916]LogModuleManager: Shutting down and abandoning module SceneOutliner (1038)
+[2026.06.13-15.03.06:876][916]LogModuleManager: Shutting down and abandoning module SubobjectEditor (1036)
+[2026.06.13-15.03.06:876][916]LogModuleManager: Shutting down and abandoning module StatusBar (1034)
+[2026.06.13-15.03.06:876][916]LogModuleManager: Shutting down and abandoning module UnsavedAssetsTracker (1032)
+[2026.06.13-15.03.06:876][916]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (1030)
+[2026.06.13-15.03.06:876][916]LogModuleManager: Shutting down and abandoning module StatsViewer (1028)
+[2026.06.13-15.03.06:876][916]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (1026)
+[2026.06.13-15.03.06:876][916]LogModuleManager: Shutting down and abandoning module AutomationWorker (1024)
+[2026.06.13-15.03.06:876][916]LogModuleManager: Shutting down and abandoning module PlanarCut (1022)
+[2026.06.13-15.03.06:876][916]LogModuleManager: Shutting down and abandoning module FractureEngine (1020)
+[2026.06.13-15.03.06:876][916]LogModuleManager: Shutting down and abandoning module CharacterAI (1018)
+[2026.06.13-15.03.06:876][916]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (1016)
+[2026.06.13-15.03.06:876][916]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (1014)
+[2026.06.13-15.03.06:876][916]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (1012)
+[2026.06.13-15.03.06:876][916]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (1010)
+[2026.06.13-15.03.06:876][916]LogModuleManager: Shutting down and abandoning module IKRigEditor (1008)
+[2026.06.13-15.03.06:876][916]LogModuleManager: Shutting down and abandoning module ControlRigEditor (1006)
+[2026.06.13-15.03.06:876][916]LogModuleManager: Shutting down and abandoning module WaveTableEditor (1004)
+[2026.06.13-15.03.06:876][916]LogModuleManager: Shutting down and abandoning module RigVMEditor (1002)
+[2026.06.13-15.03.06:876][916]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (1000)
+[2026.06.13-15.03.06:876][916]LogModuleManager: Shutting down and abandoning module GooglePADEditor (998)
+[2026.06.13-15.03.06:876][916]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (996)
+[2026.06.13-15.03.06:876][916]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (994)
+[2026.06.13-15.03.06:876][916]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (992)
+[2026.06.13-15.03.06:876][916]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (990)
+[2026.06.13-15.03.06:876][916]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (988)
+[2026.06.13-15.03.06:876][916]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (986)
+[2026.06.13-15.03.06:876][916]LogModuleManager: Shutting down and abandoning module WebMMedia (984)
+[2026.06.13-15.03.06:876][916]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (982)
+[2026.06.13-15.03.06:876][916]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (980)
+[2026.06.13-15.03.06:876][916]LogModuleManager: Shutting down and abandoning module SequenceRecorder (979)
+[2026.06.13-15.03.06:876][916]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (976)
+[2026.06.13-15.03.06:876][916]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (974)
+[2026.06.13-15.03.06:876][916]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (972)
+[2026.06.13-15.03.06:876][916]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (970)
+[2026.06.13-15.03.06:876][916]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (968)
+[2026.06.13-15.03.06:876][916]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (966)
+[2026.06.13-15.03.06:876][916]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (964)
+[2026.06.13-15.03.06:876][916]LogModuleManager: Shutting down and abandoning module TextureAlignMode (962)
+[2026.06.13-15.03.06:876][916]LogModuleManager: Shutting down and abandoning module BspMode (960)
+[2026.06.13-15.03.06:876][916]LogModuleManager: Shutting down and abandoning module GeometryMode (958)
+[2026.06.13-15.03.06:876][916]LogModuleManager: Shutting down and abandoning module EngineAssetDefinitions (956)
+[2026.06.13-15.03.06:876][916]LogModuleManager: Shutting down and abandoning module SmartSnapping (954)
+[2026.06.13-15.03.06:876][916]LogModuleManager: Shutting down and abandoning module SessionServices (952)
+[2026.06.13-15.03.06:877][916]LogModuleManager: Shutting down and abandoning module MeshPaint (950)
+[2026.06.13-15.03.06:877][916]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (948)
+[2026.06.13-15.03.06:877][916]LogModuleManager: Shutting down and abandoning module PlacementMode (947)
+[2026.06.13-15.03.06:877][916]LogModuleManager: Shutting down and abandoning module FoliageEdit (944)
+[2026.06.13-15.03.06:877][916]LogModuleManager: Shutting down and abandoning module LandscapeEditor (942)
+[2026.06.13-15.03.06:877][916]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (940)
+[2026.06.13-15.03.06:877][916]LogModuleManager: Shutting down and abandoning module ActorPickerMode (938)
+[2026.06.13-15.03.06:877][916]LogModuleManager: Shutting down and abandoning module ViewportSnapping (936)
+[2026.06.13-15.03.06:877][916]LogModuleManager: Shutting down and abandoning module EditorWidgets (934)
+[2026.06.13-15.03.06:877][916]LogModuleManager: Shutting down and abandoning module ViewportInteraction (932)
+[2026.06.13-15.03.06:877][916]LogModuleManager: Shutting down and abandoning module ClothPainter (930)
+[2026.06.13-15.03.06:877][916]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (929)
+[2026.06.13-15.03.06:877][916]LogModuleManager: Shutting down and abandoning module WidgetRegistration (926)
+[2026.06.13-15.03.06:877][916]LogModuleManager: Shutting down and abandoning module LogVisualizer (924)
+[2026.06.13-15.03.06:877][916]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (922)
+[2026.06.13-15.03.06:877][916]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (920)
+[2026.06.13-15.03.06:877][916]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (919)
+[2026.06.13-15.03.06:877][916]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (917)
+[2026.06.13-15.03.07:335][916]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (914)
+[2026.06.13-15.03.07:335][916]LogModuleManager: Shutting down and abandoning module MacPlatformEditor (912)
+[2026.06.13-15.03.07:335][916]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (910)
+[2026.06.13-15.03.07:335][916]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (908)
+[2026.06.13-15.03.07:335][916]LogModuleManager: Shutting down and abandoning module RenderResourceViewer (906)
+[2026.06.13-15.03.07:335][916]LogModuleManager: Shutting down and abandoning module GameplayDebuggerEditor (904)
+[2026.06.13-15.03.07:335][916]LogModuleManager: Shutting down and abandoning module AnimationSettings (902)
+[2026.06.13-15.03.07:335][916]LogModuleManager: Shutting down and abandoning module VirtualizationEditor (900)
+[2026.06.13-15.03.07:335][916]LogModuleManager: Shutting down and abandoning module CSVtoSVG (898)
+[2026.06.13-15.03.07:335][916]LogModuleManager: Shutting down and abandoning module DerivedDataEditor (896)
+[2026.06.13-15.03.07:335][916]LogModuleManager: Shutting down and abandoning module EditorConfig (894)
+[2026.06.13-15.03.07:335][916]LogModuleManager: Shutting down and abandoning module EditorFramework (892)
+[2026.06.13-15.03.07:335][916]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (890)
+[2026.06.13-15.03.07:335][916]LogModuleManager: Shutting down and abandoning module TraceInsights (888)
+[2026.06.13-15.03.07:335][916]MemoryProfiler: Shutdown
+[2026.06.13-15.03.07:335][916]NetworkingProfiler: Shutdown
+[2026.06.13-15.03.07:335][916]LoadingProfiler: Shutdown
+[2026.06.13-15.03.07:335][916]TimingProfiler: Shutdown
+[2026.06.13-15.03.07:336][916]LogModuleManager: Shutting down and abandoning module TraceServices (887)
+[2026.06.13-15.03.07:336][916]LogModuleManager: Shutting down and abandoning module TraceAnalysis (886)
+[2026.06.13-15.03.07:336][916]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (882)
+[2026.06.13-15.03.07:336][916]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (881)
+[2026.06.13-15.03.07:336][916]LogModuleManager: Shutting down and abandoning module InputBindingEditor (878)
+[2026.06.13-15.03.07:336][916]LogModuleManager: Shutting down and abandoning module MergeActors (876)
+[2026.06.13-15.03.07:336][916]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (874)
+[2026.06.13-15.03.07:336][916]LogModuleManager: Shutting down and abandoning module LocalizationService (873)
+[2026.06.13-15.03.07:336][916]LogModuleManager: Shutting down and abandoning module HardwareTargeting (870)
+[2026.06.13-15.03.07:336][916]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (868)
+[2026.06.13-15.03.07:336][916]LogModuleManager: Shutting down and abandoning module UndoHistory (866)
+[2026.06.13-15.03.07:336][916]LogModuleManager: Shutting down and abandoning module XmlParser (864)
+[2026.06.13-15.03.07:336][916]LogModuleManager: Shutting down and abandoning module Blutility (862)
+[2026.06.13-15.03.07:336][916]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (860)
+[2026.06.13-15.03.07:336][916]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (859)
+[2026.06.13-15.03.07:336][916]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (856)
+[2026.06.13-15.03.07:336][916]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (855)
+[2026.06.13-15.03.07:336][916]LogModuleManager: Shutting down and abandoning module SettingsEditor (852)
+[2026.06.13-15.03.07:336][916]LogModuleManager: Shutting down and abandoning module ProjectLauncher (850)
+[2026.06.13-15.03.07:336][916]LogModuleManager: Shutting down and abandoning module SessionFrontend (848)
+[2026.06.13-15.03.07:336][916]LogModuleManager: Shutting down and abandoning module ProfilerClient (846)
+[2026.06.13-15.03.07:336][916]LogModuleManager: Shutting down and abandoning module DeviceManager (844)
+[2026.06.13-15.03.07:336][916]LogModuleManager: Shutting down and abandoning module AutomationController (842)
+[2026.06.13-15.03.07:336][916]LogModuleManager: Shutting down and abandoning module AutomationWindow (840)
+[2026.06.13-15.03.07:336][916]LogModuleManager: Shutting down and abandoning module Layers (838)
+[2026.06.13-15.03.07:336][916]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (836)
+[2026.06.13-15.03.07:336][916]LogModuleManager: Shutting down and abandoning module DetailCustomizations (834)
+[2026.06.13-15.03.07:336][916]LogModuleManager: Shutting down and abandoning module PackagesDialog (832)
+[2026.06.13-15.03.07:336][916]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (830)
+[2026.06.13-15.03.07:336][916]LogModuleManager: Shutting down and abandoning module Persona (828)
+[2026.06.13-15.03.07:336][916]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (827)
+[2026.06.13-15.03.07:336][916]LogModuleManager: Shutting down and abandoning module Kismet (824)
+[2026.06.13-15.03.07:343][916]LogModuleManager: Shutting down and abandoning module KismetWidgets (823)
+[2026.06.13-15.03.07:343][916]LogModuleManager: Shutting down and abandoning module GraphEditor (820)
+[2026.06.13-15.03.07:343][916]LogModuleManager: Shutting down and abandoning module StructViewer (818)
+[2026.06.13-15.03.07:343][916]LogModuleManager: Shutting down and abandoning module ClassViewer (816)
+[2026.06.13-15.03.07:345][916]LogModuleManager: Shutting down and abandoning module UncontrolledChangelists (814)
+[2026.06.13-15.03.07:345][916]LogModuleManager: Shutting down and abandoning module SourceControlWindowExtender (812)
+[2026.06.13-15.03.07:345][916]LogModuleManager: Shutting down and abandoning module SourceControlWindows (810)
+[2026.06.13-15.03.07:345][916]LogModuleManager: Shutting down and abandoning module OutputLog (808)
+[2026.06.13-15.03.07:346][916]LogModuleManager: Shutting down and abandoning module Documentation (806)
+[2026.06.13-15.03.07:346][916]LogModuleManager: Shutting down and abandoning module SparseVolumeTexture (804)
+[2026.06.13-15.03.07:346][916]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (802)
+[2026.06.13-15.03.07:346][916]LogModuleManager: Shutting down and abandoning module MovieScene (800)
+[2026.06.13-15.03.07:346][916]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (798)
+[2026.06.13-15.03.07:346][916]LogModuleManager: Shutting down and abandoning module BinkAudioDecoder (796)
+[2026.06.13-15.03.07:346][916]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (794)
+[2026.06.13-15.03.07:346][916]LogModuleManager: Shutting down and abandoning module AudioMixer (793)
+[2026.06.13-15.03.07:346][916]LogModuleManager: Shutting down and abandoning module AudioMixerCore (792)
+[2026.06.13-15.03.07:346][916]LogModuleManager: Shutting down and abandoning module LauncherPlatform (788)
+[2026.06.13-15.03.07:346][916]LogModuleManager: Shutting down and abandoning module AnalyticsET (786)
+[2026.06.13-15.03.07:346][916]LogModuleManager: Shutting down and abandoning module PortalServices (784)
+[2026.06.13-15.03.07:346][916]LogModuleManager: Shutting down and abandoning module PortalRpc (782)
+[2026.06.13-15.03.07:346][916]LogModuleManager: Shutting down and abandoning module MessagingRpc (780)
+[2026.06.13-15.03.07:346][916]LogModuleManager: Shutting down and abandoning module AIModule (778)
+[2026.06.13-15.03.07:346][916]LogModuleManager: Shutting down and abandoning module GameplayDebugger (777)
+[2026.06.13-15.03.07:346][916]LogModuleManager: Shutting down and abandoning module AITestSuite (775)
+[2026.06.13-15.03.07:346][916]LogModuleManager: Shutting down and abandoning module NavigationSystem (773)
+[2026.06.13-15.03.07:346][916]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (770)
+[2026.06.13-15.03.07:346][916]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (768)
+[2026.06.13-15.03.07:346][916]LogModuleManager: Shutting down and abandoning module TypedElementFramework (766)
+[2026.06.13-15.03.07:346][916]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (764)
+[2026.06.13-15.03.07:346][916]LogModuleManager: Shutting down and abandoning module ProfilerService (762)
+[2026.06.13-15.03.07:525][916]LogModuleManager: Shutting down and abandoning module ProfileVisualizer (760)
+[2026.06.13-15.03.07:525][916]LogModuleManager: Shutting down and abandoning module CacheTrackRecorder (758)
+[2026.06.13-15.03.07:525][916]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (756)
+[2026.06.13-15.03.07:525][916]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (754)
+[2026.06.13-15.03.07:525][916]LogModuleManager: Shutting down and abandoning module TakesCore (752)
+[2026.06.13-15.03.07:525][916]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (750)
+[2026.06.13-15.03.07:526][916]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (748)
+[2026.06.13-15.03.07:526][916]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (746)
+[2026.06.13-15.03.07:526][916]LogModuleManager: Shutting down and abandoning module CollectionManager (745)
+[2026.06.13-15.03.07:526][916]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (742)
+[2026.06.13-15.03.07:526][916]LogModuleManager: Shutting down and abandoning module PortableObjectFileDataSource (740)
+[2026.06.13-15.03.07:526][916]LogModuleManager: Shutting down and abandoning module LightMixer (738)
+[2026.06.13-15.03.07:526][916]LogModuleManager: Shutting down and abandoning module ObjectMixerEditor (736)
+[2026.06.13-15.03.07:526][916]LogModuleManager: Shutting down and abandoning module TakeSequencer (734)
+[2026.06.13-15.03.07:526][916]LogModuleManager: Shutting down and abandoning module TakeMovieScene (732)
+[2026.06.13-15.03.07:526][916]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (730)
+[2026.06.13-15.03.07:526][916]LogModuleManager: Shutting down and abandoning module ToolPresetEditor (726)
+[2026.06.13-15.03.07:526][916]LogModuleManager: Shutting down and abandoning module ToolPresetAsset (724)
+[2026.06.13-15.03.07:526][916]LogModuleManager: Shutting down and abandoning module StructUtilsTestSuite (722)
+[2026.06.13-15.03.07:526][916]LogModuleManager: Shutting down and abandoning module StructUtilsNodes (720)
+[2026.06.13-15.03.07:526][916]LogModuleManager: Shutting down and abandoning module StructUtilsEditor (718)
+[2026.06.13-15.03.07:526][916]LogModuleManager: Shutting down and abandoning module StructUtilsEngine (716)
+[2026.06.13-15.03.07:526][916]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (714)
+[2026.06.13-15.03.07:526][916]LogOpenImageDenoise: OIDN shutting down
+[2026.06.13-15.03.07:526][916]LogModuleManager: Shutting down and abandoning module SkeletalMeshModifiers (712)
+[2026.06.13-15.03.07:526][916]LogModuleManager: Shutting down and abandoning module ModelingEditorUI (710)
+[2026.06.13-15.03.07:526][916]LogModuleManager: Shutting down and abandoning module GeometryProcessingAdapters (708)
+[2026.06.13-15.03.07:526][916]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnlyExp (706)
+[2026.06.13-15.03.07:526][916]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (704)
+[2026.06.13-15.03.07:526][916]LogModuleManager: Shutting down and abandoning module LocalizableMessageBlueprint (702)
+[2026.06.13-15.03.07:526][916]LogModuleManager: Shutting down and abandoning module LocalizableMessage (700)
+[2026.06.13-15.03.07:526][916]LogModuleManager: Shutting down and abandoning module MeshLODToolset (698)
+[2026.06.13-15.03.07:526][916]LogModuleManager: Shutting down and abandoning module GeometryCollectionNodes (696)
+[2026.06.13-15.03.07:526][916]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (694)
+[2026.06.13-15.03.07:526][916]LogModuleManager: Shutting down and abandoning module GeometryCollectionEngine (693)
+[2026.06.13-15.03.07:526][916]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (691)
+[2026.06.13-15.03.07:526][916]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (688)
+[2026.06.13-15.03.07:526][916]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessingEditor (686)
+[2026.06.13-15.03.07:526][916]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (684)
+[2026.06.13-15.03.07:526][916]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (682)
+[2026.06.13-15.03.07:526][916]LogModuleManager: Shutting down and abandoning module DataflowNodes (680)
+[2026.06.13-15.03.07:526][916]LogModuleManager: Shutting down and abandoning module DataflowEnginePlugin (678)
+[2026.06.13-15.03.07:526][916]LogModuleManager: Shutting down and abandoning module DataflowEditor (676)
+[2026.06.13-15.03.07:526][916]LogModuleManager: Shutting down and abandoning module ChaosUserDataPT (674)
+[2026.06.13-15.03.07:526][916]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (672)
+[2026.06.13-15.03.07:526][916]LogModuleManager: Shutting down and abandoning module ChaosNiagara (670)
+[2026.06.13-15.03.07:526][916]LogModuleManager: Shutting down and abandoning module FractureEditor (668)
+[2026.06.13-15.03.07:526][916]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (666)
+[2026.06.13-15.03.07:526][916]LogModuleManager: Shutting down and abandoning module BackChannel (664)
+[2026.06.13-15.03.07:526][916]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (662)
+[2026.06.13-15.03.07:526][916]LogModuleManager: Shutting down and abandoning module AutomationUtils (660)
+[2026.06.13-15.03.07:526][916]LogModuleManager: Shutting down and abandoning module AlembicImporter (658)
+[2026.06.13-15.03.07:526][916]LogModuleManager: Shutting down and abandoning module AlembicLibrary (657)
+[2026.06.13-15.03.07:526][916]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (654)
+[2026.06.13-15.03.07:526][916]LogModuleManager: Shutting down and abandoning module InterchangeTestEditor (652)
+[2026.06.13-15.03.07:526][916]LogModuleManager: Shutting down and abandoning module InterchangeTests (650)
+[2026.06.13-15.03.07:526][916]LogModuleManager: Shutting down and abandoning module VariantManager (648)
+[2026.06.13-15.03.07:526][916]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (647)
+[2026.06.13-15.03.07:526][916]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (644)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module SequencerScriptingEditor (642)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module SequencerScripting (640)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module TemplateSequence (638)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (636)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module InterchangeCommonParser (634)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (632)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module InterchangeExport (630)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module InterchangeMessages (628)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module GLTFCore (626)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module InterchangeEditorUtilities (624)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module InterchangeEditorPipelines (622)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module InterchangeEditor (620)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (618)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (616)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module UObjectPlugin (614)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (612)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (610)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module PluginUtils (608)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module GitSourceControl (606)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module N10XSourceCodeAccess (604)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module DumpGPUServices (602)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (600)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (598)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (596)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module BlendSpaceMotionAnalysis (594)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module ControlRigSpline (592)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (590)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module ACLPluginEditor (588)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module SynthesisEditor (586)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module ResonanceAudio (584)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (582)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (580)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module ModelingOperators (578)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module ModelingComponentsEditorOnly (576)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module ModelingComponents (574)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module GeometryFramework (573)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (570)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module MeshModelingTools (568)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module InputDebuggingEditor (566)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module InputDebugging (564)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module GooglePAD (562)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module DynamicMesh (560)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (558)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (556)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module GeometryCache (554)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (552)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (550)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (548)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module AudioCapture (546)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module AudioCaptureWasapi (545)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module AssetTags (542)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (540)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (538)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module AppleImageUtils (536)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module AndroidPermission (534)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (532)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (530)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module MediaPlateEditor (528)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module MediaPlate (526)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module MediaCompositing (524)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module ImgMedia (522)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (520)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module WorldPartitionHLODUtilities (518)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (516)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module UVEditorToolsEditorOnly (514)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module UVEditorTools (512)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module UVEditor (510)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module SequencerAnimTools (508)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module PluginBrowser (506)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module ModelingToolsEditorMode (504)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (502)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module EditorDebugTools (500)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (498)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module CurveEditorTools (496)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (494)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module CryptoKeys (492)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module ChangelistReview (490)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module BlueprintHeaderView (488)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (486)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (484)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module Paper2DEditor (482)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module EditorTraceUtilities (480)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module TraceUtilities (478)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (476)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (474)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module InputEditor (472)
+[2026.06.13-15.03.07:527][916]LogModuleManager: Shutting down and abandoning module UdpMessaging (470)
+[2026.06.13-15.03.07:628][916]LogModuleManager: Shutting down and abandoning module TcpMessaging (468)
+[2026.06.13-15.03.07:728][916]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (466)
+[2026.06.13-15.03.07:728][916]LogModuleManager: Shutting down and abandoning module StructUtils (464)
+[2026.06.13-15.03.07:728][916]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (462)
+[2026.06.13-15.03.07:728][916]LogModuleManager: Shutting down and abandoning module PBIK (460)
+[2026.06.13-15.03.07:728][916]LogModuleManager: Shutting down and abandoning module FullBodyIK (458)
+[2026.06.13-15.03.07:728][916]LogModuleManager: Shutting down and abandoning module ChaosCachingEditor (456)
+[2026.06.13-15.03.07:728][916]LogModuleManager: Shutting down and abandoning module TakeRecorder (455)
+[2026.06.13-15.03.07:728][916]LogModuleManager: Shutting down and abandoning module ChaosCaching (452)
+[2026.06.13-15.03.07:728][916]LogModuleManager: Shutting down and abandoning module GameplayCameras (450)
+[2026.06.13-15.03.07:728][916]LogModuleManager: Shutting down and abandoning module ActorSequence (448)
+[2026.06.13-15.03.07:728][916]LogModuleManager: Shutting down and abandoning module InterchangePipelines (446)
+[2026.06.13-15.03.07:728][916]LogModuleManager: Shutting down and abandoning module InterchangeImport (444)
+[2026.06.13-15.03.07:728][916]LogModuleManager: Shutting down and abandoning module InterchangeFactoryNodes (442)
+[2026.06.13-15.03.07:728][916]LogModuleManager: Shutting down and abandoning module InterchangeNodes (440)
+[2026.06.13-15.03.07:728][916]LogModuleManager: Shutting down and abandoning module TraceDataFiltering (438)
+[2026.06.13-15.03.07:728][916]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (436)
+[2026.06.13-15.03.07:728][916]LogModuleManager: Shutting down and abandoning module AnimationSharing (434)
+[2026.06.13-15.03.07:728][916]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (432)
+[2026.06.13-15.03.07:728][916]LogModuleManager: Shutting down and abandoning module Niagara (430)
+[2026.06.13-15.03.07:728][916]LogModuleManager: Shutting down and abandoning module NiagaraEditor (429)
+[2026.06.13-15.03.07:728][916]LogModuleManager: Shutting down and abandoning module NiagaraCore (426)
+[2026.06.13-15.03.07:728][916]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (424)
+[2026.06.13-15.03.07:728][916]LogModuleManager: Shutting down and abandoning module IKRig (422)
+[2026.06.13-15.03.07:728][916]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (420)
+[2026.06.13-15.03.07:728][916]LogModuleManager: Shutting down and abandoning module ControlRig (418)
+[2026.06.13-15.03.07:728][916]LogModuleManager: Shutting down and abandoning module Constraints (417)
+[2026.06.13-15.03.07:728][916]LogModuleManager: Shutting down and abandoning module LevelSequence (415)
+[2026.06.13-15.03.07:728][916]LogModuleManager: Shutting down and abandoning module AnimationData (412)
+[2026.06.13-15.03.07:728][916]LogModuleManager: Shutting down and abandoning module Synthesis (410)
+[2026.06.13-15.03.07:728][916]LogModuleManager: Shutting down and abandoning module SoundFields (408)
+[2026.06.13-15.03.07:728][916]LogModuleManager: Shutting down and abandoning module SignificanceManager (406)
+[2026.06.13-15.03.07:728][916]LogModuleManager: Shutting down and abandoning module RigVMDeveloper (404)
+[2026.06.13-15.03.07:728][916]LogModuleManager: Shutting down and abandoning module RigVM (402)
+[2026.06.13-15.03.07:728][916]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (400)
+[2026.06.13-15.03.07:728][916]LogModuleManager: Shutting down and abandoning module MsQuicRuntime (398)
+[2026.06.13-15.03.07:728][916]LogModuleManager: Shutting down and abandoning module MetasoundEditor (396)
+[2026.06.13-15.03.07:728][916]LogModuleManager: Shutting down and abandoning module AudioWidgets (395)
+[2026.06.13-15.03.07:728][916]LogModuleManager: Shutting down and abandoning module AdvancedWidgets (394)
+[2026.06.13-15.03.07:728][916]LogModuleManager: Shutting down and abandoning module MetasoundEngineTest (390)
+[2026.06.13-15.03.07:728][916]LogModuleManager: Shutting down and abandoning module MetasoundEngine (388)
+[2026.06.13-15.03.07:728][916]LogModuleManager: Shutting down and abandoning module WaveTable (387)
+[2026.06.13-15.03.07:728][916]LogModuleManager: Shutting down and abandoning module AudioCodecEngine (385)
+[2026.06.13-15.03.07:728][916]LogModuleManager: Shutting down and abandoning module MetasoundStandardNodes (382)
+[2026.06.13-15.03.07:728][916]LogModuleManager: Shutting down and abandoning module MetasoundFrontend (380)
+[2026.06.13-15.03.07:728][916]LogModuleManager: Shutting down and abandoning module MetasoundGenerator (378)
+[2026.06.13-15.03.07:728][916]LogModuleManager: Shutting down and abandoning module MetasoundGraphCore (376)
+[2026.06.13-15.03.07:728][916]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (374)
+[2026.06.13-15.03.07:728][916]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (372)
+[2026.06.13-15.03.07:728][916]LogModuleManager: Shutting down and abandoning module CableComponent (370)
+[2026.06.13-15.03.07:728][916]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (368)
+[2026.06.13-15.03.07:728][916]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (367)
+[2026.06.13-15.03.07:728][916]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (364)
+[2026.06.13-15.03.07:728][916]LogModuleManager: Shutting down and abandoning module SignalProcessing (363)
+[2026.06.13-15.03.07:728][916]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (360)
+[2026.06.13-15.03.07:728][916]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (358)
+[2026.06.13-15.03.07:728][916]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (356)
+[2026.06.13-15.03.07:728][916]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (354)
+[2026.06.13-15.03.07:728][916]LogModuleManager: Shutting down and abandoning module FacialAnimation (352)
+[2026.06.13-15.03.07:728][916]LogModuleManager: Shutting down and abandoning module DataValidation (350)
+[2026.06.13-15.03.07:728][916]LogModuleManager: Shutting down and abandoning module Paper2D (348)
+[2026.06.13-15.03.07:728][916]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (346)
+[2026.06.13-15.03.07:730][916]LogModuleManager: Shutting down and abandoning module LevelEditor (345)
+[2026.06.13-15.03.07:731][916]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (344)
+[2026.06.13-15.03.07:731][916]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (342)
+[2026.06.13-15.03.07:731][916]LogModuleManager: Shutting down and abandoning module MainFrame (340)
+[2026.06.13-15.03.07:731][916]LogModuleManager: Shutting down and abandoning module HotReload (339)
+[2026.06.13-15.03.07:732][916]LogModuleManager: Shutting down and abandoning module ContentBrowser (335)
+[2026.06.13-15.03.07:732][916]LogModuleManager: Shutting down and abandoning module ToolMenus (334)
+[2026.06.13-15.03.07:732][916]LogModuleManager: Shutting down and abandoning module ContentBrowserData (332)
+[2026.06.13-15.03.07:732][916]LogModuleManager: Shutting down and abandoning module TreeMap (329)
+[2026.06.13-15.03.07:732][916]LogModuleManager: Shutting down and abandoning module InputBlueprintNodes (326)
+[2026.06.13-15.03.07:732][916]LogModuleManager: Shutting down and abandoning module BlueprintGraph (325)
+[2026.06.13-15.03.07:732][916]LogModuleManager: Shutting down and abandoning module EnhancedInput (322)
+[2026.06.13-15.03.07:732][916]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (320)
+[2026.06.13-15.03.07:733][916]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (318)
+[2026.06.13-15.03.07:733][916]LogModuleManager: Shutting down and abandoning module AndroidFileServer (316)
+[2026.06.13-15.03.07:733][916]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (314)
+[2026.06.13-15.03.07:733][916]LogModuleManager: Shutting down and abandoning module PacketHandler (312)
+[2026.06.13-15.03.07:733][916]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (310)
+[2026.06.13-15.03.07:733][916]LogModuleManager: Shutting down and abandoning module AnimGraph (308)
+[2026.06.13-15.03.07:733][916]LogModuleManager: Shutting down and abandoning module TimeManagement (306)
+[2026.06.13-15.03.07:733][916]LogModuleManager: Shutting down and abandoning module AnimationDataController (304)
+[2026.06.13-15.03.07:733][916]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (302)
+[2026.06.13-15.03.07:733][916]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (300)
+[2026.06.13-15.03.07:733][916]LogModuleManager: Shutting down and abandoning module MediaAssets (298)
+[2026.06.13-15.03.07:733][916]LogModuleManager: Shutting down and abandoning module Overlay (296)
+[2026.06.13-15.03.07:733][916]LogModuleManager: Shutting down and abandoning module OverlayEditor (295)
+[2026.06.13-15.03.07:733][916]LogModuleManager: Shutting down and abandoning module VREditor (292)
+[2026.06.13-15.03.07:733][916]LogModuleManager: Shutting down and abandoning module StringTableEditor (290)
+[2026.06.13-15.03.07:733][916]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (288)
+[2026.06.13-15.03.07:733][916]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (286)
+[2026.06.13-15.03.07:733][916]LogModuleManager: Shutting down and abandoning module FunctionalTesting (284)
+[2026.06.13-15.03.07:733][916]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (282)
+[2026.06.13-15.03.07:734][916]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (281)
+[2026.06.13-15.03.07:734][916]LogModuleManager: Shutting down and abandoning module ScriptableEditorWidgets (278)
+[2026.06.13-15.03.07:734][916]LogModuleManager: Shutting down and abandoning module UMG (276)
+[2026.06.13-15.03.07:734][916]LogModuleManager: Shutting down and abandoning module UMGEditor (275)
+[2026.06.13-15.03.07:734][916]LogModuleManager: Shutting down and abandoning module EditorStyle (270)
+[2026.06.13-15.03.07:734][916]LogModuleManager: Shutting down and abandoning module SlateReflector (268)
+[2026.06.13-15.03.07:734][916]LogModuleManager: Shutting down and abandoning module Slate (266)
+[2026.06.13-15.03.07:734][916]LogModuleManager: Shutting down and abandoning module SlateCore (264)
+[2026.06.13-15.03.07:735][916]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (262)
+[2026.06.13-15.03.07:735][916]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (260)
+[2026.06.13-15.03.07:735][916]LogModuleManager: Shutting down and abandoning module UnrealEd (258)
+[2026.06.13-15.03.07:735][916]LogModuleManager: Shutting down and abandoning module MRMesh (256)
+[2026.06.13-15.03.07:735][916]LogModuleManager: Shutting down and abandoning module Messaging (254)
+[2026.06.13-15.03.07:735][916]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (252)
+[2026.06.13-15.03.07:736][916]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (250)
+[2026.06.13-15.03.07:736][916]LogModuleManager: Shutting down and abandoning module LiveCoding (248)
+[2026.06.13-15.03.07:742][916]LogModuleManager: Shutting down and abandoning module Networking (246)
+[2026.06.13-15.03.07:742][916]LogModuleManager: Shutting down and abandoning module Core (244)
+[2026.06.13-15.03.07:742][916]LogModuleManager: Shutting down and abandoning module AssetDefinition (242)
+[2026.06.13-15.03.07:742][916]LogModuleManager: Shutting down and abandoning module MovieSceneTools (240)
+[2026.06.13-15.03.07:742][916]LogModuleManager: Shutting down and abandoning module CurveEditor (239)
+[2026.06.13-15.03.07:742][916]LogModuleManager: Shutting down and abandoning module Sequencer (237)
+[2026.06.13-15.03.07:742][916]LogModuleManager: Shutting down and abandoning module KismetCompiler (234)
+[2026.06.13-15.03.07:742][916]LogModuleManager: Shutting down and abandoning module MeshBuilder (232)
+[2026.06.13-15.03.07:742][916]LogModuleManager: Shutting down and abandoning module NaniteBuilder (230)
+[2026.06.13-15.03.07:742][916]LogModuleManager: Shutting down and abandoning module MeshUtilities (228)
+[2026.06.13-15.03.07:742][916]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (227)
+[2026.06.13-15.03.07:742][916]LogModuleManager: Shutting down and abandoning module StaticMeshDescription (226)
+[2026.06.13-15.03.07:742][916]LogModuleManager: Shutting down and abandoning module GeometryProcessingInterfaces (225)
+[2026.06.13-15.03.07:742][916]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (222)
+[2026.06.13-15.03.07:742][916]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (221)
+[2026.06.13-15.03.07:742][916]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (219)
+[2026.06.13-15.03.07:742][916]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (217)
+[2026.06.13-15.03.07:742][916]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (215)
+[2026.06.13-15.03.07:742][916]LogModuleManager: Shutting down and abandoning module MaterialBaking (211)
+[2026.06.13-15.03.07:742][916]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (208)
+[2026.06.13-15.03.07:753][916]LogModuleManager: Shutting down and abandoning module TelemetryUtils (205)
+[2026.06.13-15.03.07:753][916]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (202)
+[2026.06.13-15.03.07:753][916]LogModuleManager: Shutting down and abandoning module ShaderPreprocessor (200)
+[2026.06.13-15.03.07:753][916]LogModuleManager: Shutting down and abandoning module DerivedDataCache (198)
+[2026.06.13-15.03.07:756][916]LogModuleManager: Shutting down and abandoning module TargetPlatform (196)
+[2026.06.13-15.03.07:756][916]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (195)
+[2026.06.13-15.03.07:756][916]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (193)
+[2026.06.13-15.03.07:756][916]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (191)
+[2026.06.13-15.03.07:756][916]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (189)
+[2026.06.13-15.03.07:756][916]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (187)
+[2026.06.13-15.03.07:756][916]LogModuleManager: Shutting down and abandoning module AudioFormatBINK (185)
+[2026.06.13-15.03.07:756][916]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (183)
+[2026.06.13-15.03.07:756][916]LogModuleManager: Shutting down and abandoning module AudioFormatOGG (181)
+[2026.06.13-15.03.07:756][916]LogModuleManager: Shutting down and abandoning module AudioFormatOPUS (179)
+[2026.06.13-15.03.07:756][916]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (177)
+[2026.06.13-15.03.07:756][916]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (175)
+[2026.06.13-15.03.07:756][916]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (173)
+[2026.06.13-15.03.07:756][916]LogModuleManager: Shutting down and abandoning module LinuxArm64TargetPlatform (171)
+[2026.06.13-15.03.07:756][916]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (169)
+[2026.06.13-15.03.07:756][916]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (167)
+[2026.06.13-15.03.07:756][916]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (165)
+[2026.06.13-15.03.07:756][916]LogModuleManager: Shutting down and abandoning module TextureFormat (163)
+[2026.06.13-15.03.07:756][916]LogModuleManager: Shutting down and abandoning module ImageWrapper (162)
+[2026.06.13-15.03.07:756][916]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (160)
+[2026.06.13-15.03.07:756][916]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (158)
+[2026.06.13-15.03.07:756][916]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (156)
+[2026.06.13-15.03.07:756][916]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (154)
+[2026.06.13-15.03.07:756][916]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (152)
+[2026.06.13-15.03.07:756][916]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (150)
+[2026.06.13-15.03.07:756][916]LogModuleManager: Shutting down and abandoning module TurnkeySupport (147)
+[2026.06.13-15.03.07:756][916]LogModuleManager: Shutting down and abandoning module InputCore (144)
+[2026.06.13-15.03.07:756][916]LogModuleManager: Shutting down and abandoning module Settings (142)
+[2026.06.13-15.03.07:756][916]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (140)
+[2026.06.13-15.03.07:757][916]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (138)
+[2026.06.13-15.03.07:757][916]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (137)
+[2026.06.13-15.03.07:757][916]LogModuleManager: Shutting down and abandoning module Chaos (134)
+[2026.06.13-15.03.07:757][916]LogModuleManager: Shutting down and abandoning module GeometryCore (133)
+[2026.06.13-15.03.07:757][916]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (130)
+[2026.06.13-15.03.07:757][916]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (129)
+[2026.06.13-15.03.07:757][916]LogModuleManager: Shutting down and abandoning module AVEncoder (128)
+[2026.06.13-15.03.07:757][916]LogModuleManager: Shutting down and abandoning module D3D12RHI (124)
+[2026.06.13-15.03.07:757][916]LogModuleManager: Shutting down and abandoning module OnlineServicesCommonEngineUtils (122)
+[2026.06.13-15.03.07:757][916]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (120)
+[2026.06.13-15.03.07:757][916]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (118)
+[2026.06.13-15.03.07:757][916]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (116)
+[2026.06.13-15.03.07:757][916]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (114)
+[2026.06.13-15.03.07:757][916]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (112)
+[2026.06.13-15.03.07:760][916]LogModuleManager: Shutting down and abandoning module XMPP (107)
+[2026.06.13-15.03.07:760][916]LogModuleManager: Shutting down and abandoning module WebSockets (106)
+[2026.06.13-15.03.07:767][916]LogModuleManager: Shutting down and abandoning module HTTP (103)
+[2026.06.13-15.03.07:767][916]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.06.13-15.03.07:767][916]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BAC397356-496F-EA1A-DAD3-EDAD61D35931%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=7bd442f16e404b37b589184b65ae8269%7Ce4ef8e19ec8f44319d3d11b5febb3d97%7C504fb8cf-d722-4eb0-a492-392d1bbe0138&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2026.06.13-15.03.07:802][916]LogModuleManager: Shutting down and abandoning module SSL (102)
+[2026.06.13-15.03.07:802][916]LogModuleManager: Shutting down and abandoning module ChaosCloth (98)
+[2026.06.13-15.03.07:802][916]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (96)
+[2026.06.13-15.03.07:802][916]LogModuleManager: Shutting down and abandoning module VariantManagerContent (94)
+[2026.06.13-15.03.07:802][916]LogModuleManager: Shutting down and abandoning module GLTFExporter (92)
+[2026.06.13-15.03.07:802][916]LogModuleManager: Shutting down and abandoning module DatasmithContent (90)
+[2026.06.13-15.03.07:803][916]LogModuleManager: Shutting down and abandoning module PixWinPlugin (88)
+[2026.06.13-15.03.07:803][916]LogModuleManager: Shutting down and abandoning module RenderDocPlugin (86)
+[2026.06.13-15.03.07:803][916]RenderDocPlugin: plugin has been unloaded.
+[2026.06.13-15.03.07:803][916]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (84)
+[2026.06.13-15.03.07:803][916]LogModuleManager: Shutting down and abandoning module NiagaraShader (82)
+[2026.06.13-15.03.07:803][916]LogModuleManager: Shutting down and abandoning module ACLPlugin (80)
+[2026.06.13-15.03.07:803][916]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (78)
+[2026.06.13-15.03.07:803][916]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2026.06.13-15.03.07:803][916]LogModuleManager: Shutting down and abandoning module ChunkDownloader (74)
+[2026.06.13-15.03.07:803][916]LogModuleManager: Shutting down and abandoning module WmfMedia (72)
+[2026.06.13-15.03.07:805][916]LogModuleManager: Shutting down and abandoning module Media (71)
+[2026.06.13-15.03.07:807][916]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (68)
+[2026.06.13-15.03.07:807][916]LogModuleManager: Shutting down and abandoning module AISupportModule (66)
+[2026.06.13-15.03.07:807][916]LogModuleManager: Shutting down and abandoning module DesktopPlatform (64)
+[2026.06.13-15.03.07:807][916]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (62)
+[2026.06.13-15.03.07:807][916]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (60)
+[2026.06.13-15.03.07:807][916]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (58)
+[2026.06.13-15.03.07:807][916]LogModuleManager: Shutting down and abandoning module PlatformCrypto (56)
+[2026.06.13-15.03.07:807][916]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (54)
+[2026.06.13-15.03.07:807][916]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (52)
+[2026.06.13-15.03.07:807][916]LogModuleManager: Shutting down and abandoning module SourceControl (51)
+[2026.06.13-15.03.07:807][916]LogModuleManager: Shutting down and abandoning module XGEController (48)
+[2026.06.13-15.03.07:807][916]LogModuleManager: Shutting down and abandoning module FastBuildController (46)
+[2026.06.13-15.03.07:808][916]LogModuleManager: Shutting down and abandoning module IoStoreOnDemand (44)
+[2026.06.13-15.03.07:808][916]LogModuleManager: Shutting down and abandoning module AnimationModifiers (42)
+[2026.06.13-15.03.07:808][916]LogModuleManager: Shutting down and abandoning module AudioEditor (40)
+[2026.06.13-15.03.07:808][916]LogModuleManager: Shutting down and abandoning module PropertyEditor (39)
+[2026.06.13-15.03.07:808][916]LogModuleManager: Shutting down and abandoning module Virtualization (36)
+[2026.06.13-15.03.07:808][916]LogModuleManager: Shutting down and abandoning module MessageLog (35)
+[2026.06.13-15.03.07:808][916]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2026.06.13-15.03.07:808][916]LogModuleManager: Shutting down and abandoning module OpenColorIOWrapper (31)
+[2026.06.13-15.03.07:808][916]LogModuleManager: Shutting down and abandoning module RenderCore (28)
+[2026.06.13-15.03.07:808][916]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2026.06.13-15.03.07:808][916]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2026.06.13-15.03.07:809][916]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (22)
+[2026.06.13-15.03.07:809][916]LogModuleManager: Shutting down and abandoning module Renderer (20)
+[2026.06.13-15.03.07:809][916]LogModuleManager: Shutting down and abandoning module Engine (18)
+[2026.06.13-15.03.07:809][916]LogModuleManager: Shutting down and abandoning module CoreUObject (16)
+[2026.06.13-15.03.07:809][916]LogModuleManager: Shutting down and abandoning module SandboxFile (14)
+[2026.06.13-15.03.07:809][916]LogModuleManager: Shutting down and abandoning module PakFile (12)
+[2026.06.13-15.03.07:809][916]LogPakFile: Destroying PakPlatformFile
+[2026.06.13-15.03.07:809][916]LogModuleManager: Shutting down and abandoning module RSA (11)
+[2026.06.13-15.03.07:809][916]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2026.06.13-15.03.07:809][916]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2026.06.13-15.03.07:809][916]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
+[2026.06.13-15.03.07:809][916]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2026.06.13-15.03.07:969][916]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.06.13-15.03.08:007][916]LogExit: Exiting.
+[2026.06.13-15.03.08:056][916]Log file closed, 06/13/26 18:03:08
